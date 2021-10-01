@@ -1,0 +1,521 @@
+{"class_id":"\/m\/0k5j","display_name":"Aircraft","object_s":"aircraft","areis_s":"is","object_pl":"aircraft","areis_pl":"are","ngram":"aircraft"}
+{"class_id":"\/m\/0cmf2","display_name":"Airplane","object_s":"airplane","areis_s":"is","object_pl":"airplanes","areis_pl":"are","ngram":"airplane"}
+{"class_id":"\/m\/046dlr","display_name":"Alarm clock","object_s":"alarm clock","areis_s":"is","object_pl":"alarm clocks","areis_pl":"are","ngram":"alarm clock"}
+{"class_id":"\/m\/012n7d","display_name":"Ambulance","object_s":"ambulance","areis_s":"is","object_pl":"ambulances","areis_pl":"are","ngram":"ambulance"}
+{"class_id":"\/m\/0_k2","display_name":"Ant","object_s":"ant","areis_s":"is","object_pl":"ants","areis_pl":"are","ngram":"ant"}
+{"class_id":"\/m\/047v4b","display_name":"Artichoke","object_s":"artichoke","areis_s":"is","object_pl":"artichokes","areis_pl":"are","ngram":"artichoke"}
+{"class_id":"\/m\/014j1m","display_name":"Apple","object_s":"apple","areis_s":"is","object_pl":"apples","areis_pl":"are","ngram":"apple"}
+{"class_id":"\/m\/0fnfy","display_name":"Apricot","object_s":"apricot","areis_s":"is","object_pl":"apricots","areis_pl":"are","ngram":"apricot"}
+{"class_id":"\/m\/02g7g2","display_name":"Asparagus","object_s":"asparagus","areis_s":"is","object_pl":"asparagus","areis_pl":"is","ngram":"asparagus"}
+{"class_id":"\/m\/08dz3q","display_name":"Auto part","object_s":"auto part","areis_s":"is","object_pl":"auto parts","areis_pl":"are","ngram":"auto part"}
+{"class_id":"\/m\/01645p","display_name":"Avocado","object_s":"avocado","areis_s":"is","object_pl":"avocados","areis_pl":"are","ngram":"avocado"}
+{"class_id":"\/m\/0c2jj","display_name":"Axe","object_s":"axe","areis_s":"is","object_pl":"axes","areis_pl":"are","ngram":"axis"}
+{"class_id":"\/m\/01940j","display_name":"Backpack","object_s":"backpack","areis_s":"is","object_pl":"backpacks","areis_pl":"are","ngram":"backpack"}
+{"class_id":"\/m\/01fb_0","display_name":"Bagel","object_s":"bagel","areis_s":"is","object_pl":"bagels","areis_pl":"are","ngram":"bagel"}
+{"class_id":"\/m\/052lwg6","display_name":"Baked goods","object_s":"baked good","areis_s":"is","object_pl":"baked goods","areis_pl":"are","ngram":"baked good"}
+{"class_id":"\/m\/018xm","display_name":"Ball","object_s":"ball","areis_s":"is","object_pl":"balls","areis_pl":"are","ngram":"ball"}
+{"class_id":"\/m\/01j51","display_name":"Balloon","object_s":"balloon","areis_s":"is","object_pl":"balloons","areis_pl":"are","ngram":"balloon"}
+{"class_id":"\/m\/09qw8","display_name":"Bamboo","object_s":"bamboo","areis_s":"is","object_pl":"bamboo","areis_pl":"is","ngram":"bamboo"}
+{"class_id":"\/m\/09qck","display_name":"Banana","object_s":"banana","areis_s":"is","object_pl":"bananas","areis_pl":"are","ngram":"banana"}
+{"class_id":"\/m\/0j496","display_name":"Band-aid","object_s":"band-aid","areis_s":"is","object_pl":"band-aids","areis_pl":"are","ngram":"bandaid"}
+{"class_id":"\/m\/02zn6n","display_name":"Barrel","object_s":"barrel","areis_s":"is","object_pl":"barrels","areis_pl":"are","ngram":"barrel"}
+{"class_id":"\/m\/03g8mr","display_name":"Baseball bat","object_s":"baseball bat","areis_s":"is","object_pl":"baseball bats","areis_pl":"are","ngram":"baseball bat"}
+{"class_id":"\/m\/03grzl","display_name":"Baseball glove","object_s":"baseball glove","areis_s":"is","object_pl":"baseball gloves","areis_pl":"are","ngram":"baseball glove"}
+{"class_id":"\/m\/0frqg3","display_name":"Basketball (Ball)","object_s":"basketball","areis_s":"is","object_pl":"basketballs","areis_pl":"are","ngram":"basketball"}
+{"class_id":"\/m\/01fp9","display_name":"Bean","object_s":"bean","areis_s":"is","object_pl":"beans","areis_pl":"are","ngram":"bean"}
+{"class_id":"\/m\/01dws","display_name":"Bear","object_s":"bear","areis_s":"is","object_pl":"bears","areis_pl":"are","ngram":"bear"}
+{"class_id":"\/m\/03ssj5","display_name":"Bed","object_s":"bed","areis_s":"is","object_pl":"beds","areis_pl":"are","ngram":"bed"}
+{"class_id":"\/m\/01h3n","display_name":"Bee","object_s":"bee","areis_s":"is","object_pl":"bees","areis_pl":"are","ngram":"bee"}
+{"class_id":"\/m\/01gllr","display_name":"Beehive","object_s":"beehive","areis_s":"is","object_pl":"beehives","areis_pl":"are","ngram":"beehive"}
+{"class_id":"\/m\/01599","display_name":"Beer","object_s":"beer","areis_s":"is","object_pl":"beer","areis_pl":"is","ngram":"beer"}
+{"class_id":"\/m\/01cbb3","display_name":"Beet","object_s":"beet","areis_s":"is","object_pl":"beets","areis_pl":"are","ngram":"beet"}
+{"class_id":"\/m\/020jm","display_name":"Beetle","object_s":"beetle","areis_s":"is","object_pl":"beetles","areis_pl":"are","ngram":"beetle"}
+{"class_id":"\/m\/0jg57","display_name":"Bell pepper","object_s":"bell pepper","areis_s":"is","object_pl":"bell peppers","areis_pl":"are","ngram":"bell pepper"}
+{"class_id":"\/m\/0176mf","display_name":"Belt","object_s":"belt","areis_s":"is","object_pl":"belts","areis_pl":"are","ngram":"belt"}
+{"class_id":"\/m\/0cvnqh","display_name":"Bench","object_s":"bench","areis_s":"is","object_pl":"benches","areis_pl":"are","ngram":"bench"}
+{"class_id":"\/m\/0199g","display_name":"Bicycle","object_s":"bicycle","areis_s":"is","object_pl":"bicycles","areis_pl":"are","ngram":"bicycle"}
+{"class_id":"\/m\/03p3bw","display_name":"Bicycle helmet","object_s":"bicycle helmet","areis_s":"is","object_pl":"bicycle helmets","areis_pl":"are","ngram":"bicycle helmet"}
+{"class_id":"\/m\/01bqk0","display_name":"Bicycle wheel","object_s":"bicycle wheel","areis_s":"is","object_pl":"bicycle wheels","areis_pl":"are","ngram":"bicycle wheel"}
+{"class_id":"\/m\/01knjb","display_name":"Billboard","object_s":"billboard","areis_s":"is","object_pl":"billboards","areis_pl":"are","ngram":"billboard"}
+{"class_id":"\/m\/04p0qw","display_name":"Billiard table","object_s":"billiard table","areis_s":"is","object_pl":"billiard tables","areis_pl":"are","ngram":"billiard table"}
+{"class_id":"\/m\/0lt4_","display_name":"Binoculars","object_s":"binoculars","areis_s":"is","object_pl":"binoculars","areis_pl":"are","ngram":"binocular"}
+{"class_id":"\/m\/019jw","display_name":"Blood","object_s":"blood","areis_s":"is","object_pl":"blood","areis_pl":"is","ngram":"blood"}
+{"class_id":"\/m\/01f8m5","display_name":"Blue jay","object_s":"blue jay","areis_s":"is","object_pl":"blue jays","areis_pl":"are","ngram":"blue jay"}
+{"class_id":"\/m\/0ftbs","display_name":"Blueberry","object_s":"blueberry","areis_s":"is","object_pl":"blueberries","areis_pl":"are","ngram":"blueberry"}
+{"class_id":"\/m\/019jd","display_name":"Boat","object_s":"boat","areis_s":"is","object_pl":"boats","areis_pl":"are","ngram":"boat"}
+{"class_id":"\/m\/0ct4f","display_name":"Bomb","object_s":"bomb","areis_s":"is","object_pl":"bombs","areis_pl":"are","ngram":"bomb"}
+{"class_id":"\/m\/01b92","display_name":"Bone","object_s":"bone","areis_s":"is","object_pl":"bones","areis_pl":"are","ngram":"bone"}
+{"class_id":"\/m\/0bt_c3","display_name":"Book","object_s":"book","areis_s":"is","object_pl":"books","areis_pl":"are","ngram":"book"}
+{"class_id":"\/m\/03__z0","display_name":"Bookcase","object_s":"bookcase","areis_s":"is","object_pl":"bookcases","areis_pl":"are","ngram":"bookcase"}
+{"class_id":"\/m\/01b638","display_name":"Boot","object_s":"boot","areis_s":"is","object_pl":"boots","areis_pl":"are","ngram":"boot"}
+{"class_id":"\/m\/04f5ws","display_name":"Bottle opener","object_s":"bottle opener","areis_s":"is","object_pl":"bottle openers","areis_pl":"are","ngram":"bottle opener"}
+{"class_id":"\/m\/04kkgm","display_name":"Bowl","object_s":"bowl","areis_s":"is","object_pl":"bowls","areis_pl":"are","ngram":"bowl"}
+{"class_id":"\/m\/025dyy","display_name":"Box","object_s":"box","areis_s":"is","object_pl":"boxes","areis_pl":"are","ngram":"box"}
+{"class_id":"\/m\/09728","display_name":"Bread","object_s":"bread","areis_s":"is","object_pl":"bread","areis_pl":"is","ngram":"bread"}
+{"class_id":"\/m\/0584n8","display_name":"Briefcase","object_s":"briefcase","areis_s":"is","object_pl":"briefcases","areis_pl":"are","ngram":"briefcase"}
+{"class_id":"\/m\/0hkxq","display_name":"Broccoli","object_s":"broccoli","areis_s":"is","object_pl":"broccoli","areis_pl":"is","ngram":"broccoli"}
+{"class_id":"\/m\/01yx86","display_name":"Bronze sculpture","object_s":"bronze sculpture","areis_s":"is","object_pl":"bronze sculptures","areis_pl":"are","ngram":"bronze sculpture"}
+{"class_id":"\/m\/01dxs","display_name":"Brown bear","object_s":"brown bear","areis_s":"is","object_pl":"brown bears","areis_pl":"are","ngram":"brown bear"}
+{"class_id":"\/m\/0cgh4","display_name":"Building","object_s":"building","areis_s":"is","object_pl":"buildings","areis_pl":"are","ngram":"building"}
+{"class_id":"\/m\/0cnyhnx","display_name":"Bull","object_s":"bull","areis_s":"is","object_pl":"bulls","areis_pl":"are","ngram":"bull"}
+{"class_id":"\/m\/01j3zr","display_name":"Burrito","object_s":"burrito","areis_s":"is","object_pl":"burritos","areis_pl":"are","ngram":"burritos"}
+{"class_id":"\/m\/01bjv","display_name":"Bus","object_s":"bus","areis_s":"is","object_pl":"buses","areis_pl":"are","ngram":"bus"}
+{"class_id":"\/m\/04yqq2","display_name":"Bust","object_s":"bust","areis_s":"is","object_pl":"busts","areis_pl":"are","ngram":"bust"}
+{"class_id":"\/m\/0chyh","display_name":"Butter","object_s":"butter","areis_s":"is","object_pl":"butter","areis_pl":"is","ngram":"butter"}
+{"class_id":"\/m\/0cyf8","display_name":"Butterfly","object_s":"butterfly","areis_s":"is","object_pl":"butterflies","areis_pl":"are","ngram":"butterfly"}
+{"class_id":"\/m\/0fbw6","display_name":"Cabbage","object_s":"cabbage","areis_s":"is","object_pl":"cabbages","areis_pl":"are","ngram":"cabbage"}
+{"class_id":"\/m\/0fszt","display_name":"Cake","object_s":"cake","areis_s":"is","object_pl":"cakes","areis_pl":"are","ngram":"cake"}
+{"class_id":"\/m\/0h8n6ft","display_name":"Cake stand","object_s":"cake stand","areis_s":"is","object_pl":"cake stands","areis_pl":"are","ngram":"cake stand"}
+{"class_id":"\/m\/024d2","display_name":"Calculator","object_s":"calculator","areis_s":"is","object_pl":"calculators","areis_pl":"are","ngram":"calculator"}
+{"class_id":"\/m\/01x_v","display_name":"Camel","object_s":"camel","areis_s":"is","object_pl":"camels","areis_pl":"are","ngram":"camel"}
+{"class_id":"\/m\/0dv5r","display_name":"Camera","object_s":"camera","areis_s":"is","object_pl":"cameras","areis_pl":"are","ngram":"camera"}
+{"class_id":"\/m\/02mqfb","display_name":"Can opener","object_s":"can opener","areis_s":"is","object_pl":"can openers","areis_pl":"are","ngram":"can opener"}
+{"class_id":"\/m\/0ccs93","display_name":"Canary","object_s":"canary","areis_s":"is","object_pl":"canaries","areis_pl":"are","ngram":"canary"}
+{"class_id":"\/m\/0c06p","display_name":"Candle","object_s":"candle","areis_s":"is","object_pl":"candles","areis_pl":"are","ngram":"candle"}
+{"class_id":"\/m\/0gm28","display_name":"Candy","object_s":"candy","areis_s":"is","object_pl":"candies","areis_pl":"are","ngram":"candy"}
+{"class_id":"\/m\/020kz","display_name":"Cannon","object_s":"cannon","areis_s":"is","object_pl":"cannons","areis_pl":"are","ngram":"cannon"}
+{"class_id":"\/m\/0ph39","display_name":"Canoe","object_s":"canoe","areis_s":"is","object_pl":"canoes","areis_pl":"are","ngram":"canoe"}
+{"class_id":"\/m\/0kpt_","display_name":"Cantaloupe","object_s":"cantaloupe","areis_s":"is","object_pl":"cantaloupes","areis_pl":"are","ngram":"cantaloupe"}
+{"class_id":"\/m\/0k4j","display_name":"Car","object_s":"car","areis_s":"is","object_pl":"cars","areis_pl":"are","ngram":"car"}
+{"class_id":"\/m\/0fj52s","display_name":"Carrot","object_s":"carrot","areis_s":"is","object_pl":"carrots","areis_pl":"are","ngram":"carrot"}
+{"class_id":"\/m\/01432t","display_name":"Cassette deck","object_s":"cassette deck","areis_s":"is","object_pl":"cassette decks","areis_pl":"are","ngram":"cassette deck"}
+{"class_id":"\/m\/0d5gx","display_name":"Castle","object_s":"castle","areis_s":"is","object_pl":"castles","areis_pl":"are","ngram":"castle"}
+{"class_id":"\/m\/01yrx","display_name":"Cat","object_s":"cat","areis_s":"is","object_pl":"cats","areis_pl":"are","ngram":"cat"}
+{"class_id":"\/m\/0cydv","display_name":"Caterpillar","object_s":"caterpillar","areis_s":"is","object_pl":"caterpillars","areis_pl":"are","ngram":"caterpillar"}
+{"class_id":"\/m\/01xq0k1","display_name":"Cattle","object_s":"cattle","areis_s":"is","object_pl":"cattle","areis_pl":"are","ngram":"cattle"}
+{"class_id":"\/m\/015w7p","display_name":"Cauliflower","object_s":"cauliflower","areis_s":"is","object_pl":"cauliflower","areis_pl":"is","ngram":"cauliflower"}
+{"class_id":"\/m\/03ldnb","display_name":"Ceiling fan","object_s":"ceiling fan","areis_s":"is","object_pl":"ceiling fans","areis_pl":"are","ngram":"ceiling fan"}
+{"class_id":"\/m\/019h78","display_name":"Centipede","object_s":"centipede","areis_s":"is","object_pl":"centipedes","areis_pl":"are","ngram":"centipede"}
+{"class_id":"\/m\/01j4z9","display_name":"Chainsaw","object_s":"chainsaw","areis_s":"is","object_pl":"chainsaws","areis_pl":"are","ngram":"chainsaw"}
+{"class_id":"\/m\/01mzpv","display_name":"Chair","object_s":"chair","areis_s":"is","object_pl":"chairs","areis_pl":"are","ngram":"chair"}
+{"class_id":"\/m\/01nkt","display_name":"Cheese","object_s":"cheese","areis_s":"is","object_pl":"cheeses","areis_pl":"are","ngram":"cheese"}
+{"class_id":"\/m\/0cd4d","display_name":"Cheetah","object_s":"cheetah","areis_s":"is","object_pl":"cheetahs","areis_pl":"are","ngram":"cheetah"}
+{"class_id":"\/m\/0f8sw","display_name":"Cherry","object_s":"cherry","areis_s":"is","object_pl":"cherries","areis_pl":"are","ngram":"cherry"}
+{"class_id":"\/m\/09b5t","display_name":"Chicken","object_s":"chicken","areis_s":"is","object_pl":"chickens","areis_pl":"are","ngram":"chicken"}
+{"class_id":"\/m\/0f8s22","display_name":"Chime","object_s":"chime","areis_s":"is","object_pl":"chimes","areis_pl":"are","ngram":"chime"}
+{"class_id":"\/m\/0_dqb","display_name":"Chisel","object_s":"chisel","areis_s":"is","object_pl":"chisels","areis_pl":"are","ngram":"chisel"}
+{"class_id":"\/m\/020vl","display_name":"Chocolate","object_s":"chocolate","areis_s":"is","object_pl":"chocolates","areis_pl":"are","ngram":"chocolate"}
+{"class_id":"\/m\/01_5g","display_name":"Chopsticks","object_s":"chopstick","areis_s":"is","object_pl":"chopsticks","areis_pl":"are","ngram":"chopstick"}
+{"class_id":"\/m\/025nd","display_name":"Christmas tree","object_s":"christmas tree","areis_s":"is","object_pl":"christmas trees","areis_pl":"are","ngram":"christmas tree"}
+{"class_id":"\/m\/01x3z","display_name":"Clock","object_s":"clock","areis_s":"is","object_pl":"clocks","areis_pl":"are","ngram":"clock"}
+{"class_id":"\/m\/0csby","display_name":"Cloud","object_s":"cloud","areis_s":"is","object_pl":"clouds","areis_pl":"are","ngram":"cloud"}
+{"class_id":"\/m\/01sy7","display_name":"Coal","object_s":"coal","areis_s":"is","object_pl":"coal","areis_pl":"is","ngram":"coal"}
+{"class_id":"\/m\/01xygc","display_name":"Coat","object_s":"coat","areis_s":"is","object_pl":"coats","areis_pl":"are","ngram":"coat"}
+{"class_id":"\/m\/024g6","display_name":"Cocktail","object_s":"cocktail","areis_s":"is","object_pl":"cocktails","areis_pl":"are","ngram":"cocktail"}
+{"class_id":"\/m\/0440zs","display_name":"Cocktail shaker","object_s":"cocktail shaker","areis_s":"is","object_pl":"cocktail shakers","areis_pl":"are","ngram":"cocktail shaker"}
+{"class_id":"\/m\/0djtd","display_name":"Coconut","object_s":"coconut","areis_s":"is","object_pl":"coconuts","areis_pl":"are","ngram":"coconut"}
+{"class_id":"\/m\/02vqfm","display_name":"Coffee","object_s":"coffee","areis_s":"is","object_pl":"coffees","areis_pl":"are","ngram":"coffee"}
+{"class_id":"\/m\/02p5f1q","display_name":"Coffee cup","object_s":"coffee cup","areis_s":"is","object_pl":"coffee cups","areis_pl":"are","ngram":"coffee cup"}
+{"class_id":"\/m\/078n6m","display_name":"Coffee table","object_s":"coffee table","areis_s":"is","object_pl":"coffee tables","areis_pl":"are","ngram":"coffee table"}
+{"class_id":"\/m\/07xyvk","display_name":"Coffeemaker","object_s":"coffeemaker","areis_s":"is","object_pl":"coffeemakers","areis_pl":"are","ngram":"coffeemaker"}
+{"class_id":"\/m\/0242l","display_name":"Coin","object_s":"coin","areis_s":"is","object_pl":"coins","areis_pl":"are","ngram":"coin"}
+{"class_id":"\/m\/0ftb8","display_name":"Common sunflower","object_s":"sunflower","areis_s":"is","object_pl":"sunflowers","areis_pl":"are","ngram":"sunflower"}
+{"class_id":"\/m\/01m2v","display_name":"Computer keyboard","object_s":"computer keyboard","areis_s":"is","object_pl":"computer keyboards","areis_pl":"are","ngram":"computer keyboard"}
+{"class_id":"\/m\/02522","display_name":"Computer monitor","object_s":"computer monitor","areis_s":"is","object_pl":"computer monitors","areis_pl":"are","ngram":"computer monitor"}
+{"class_id":"\/m\/020lf","display_name":"Computer mouse","object_s":"computer mouse","areis_s":"is","object_pl":"computer mice","areis_pl":"are","ngram":"computer mouse"}
+{"class_id":"\/m\/021mn","display_name":"Cookie","object_s":"cookie","areis_s":"is","object_pl":"cookies","areis_pl":"are","ngram":"cookie"}
+{"class_id":"\/m\/07mcwg","display_name":"Cooking spray","object_s":"cooking spray","areis_s":"is","object_pl":"cooking sprays","areis_pl":"are","ngram":"cook spray"}
+{"class_id":"\/m\/053wn","display_name":"Corn","object_s":"corn","areis_s":"is","object_pl":"corn","areis_pl":"is","ngram":"corn"}
+{"class_id":"\/m\/014trl","display_name":"Cosmetics","object_s":null,"areis_s":null,"object_pl":"cosmetics","areis_pl":"are","ngram":"cosmetic"}
+{"class_id":"\/m\/02crq1","display_name":"Couch","object_s":"couch","areis_s":"is","object_pl":"couches","areis_pl":"are","ngram":"couch"}
+{"class_id":"\/m\/0b3fp9","display_name":"Countertop","object_s":"countertop","areis_s":"is","object_pl":"countertops","areis_pl":"are","ngram":"countertop"}
+{"class_id":"\/m\/025rp__","display_name":"Cowboy hat","object_s":"cowboy hat","areis_s":"is","object_pl":"cowboy hats","areis_pl":"are","ngram":"cowboy hat"}
+{"class_id":"\/m\/0n28_","display_name":"Crab","object_s":"crab","areis_s":"is","object_pl":"crabs","areis_pl":"are","ngram":"crab"}
+{"class_id":"\/m\/08p92x","display_name":"Cream","object_s":"cream","areis_s":"is","object_pl":"creams","areis_pl":"are","ngram":"cream"}
+{"class_id":"\/m\/09f_2","display_name":"Crocodile","object_s":"crocodile","areis_s":"is","object_pl":"crocodiles","areis_pl":"are","ngram":"crocodile"}
+{"class_id":"\/m\/015wgc","display_name":"Croissant","object_s":"croissant","areis_s":"is","object_pl":"croissants","areis_pl":"are","ngram":"croissant"}
+{"class_id":"\/m\/04s8yn","display_name":"Crow","object_s":"crow","areis_s":"is","object_pl":"crows","areis_pl":"are","ngram":"crow"}
+{"class_id":"\/m\/0nl46","display_name":"Crown","object_s":"crown","areis_s":"is","object_pl":"crowns","areis_pl":"are","ngram":"crown"}
+{"class_id":"\/m\/05441v","display_name":"Crutch","object_s":"crutch","areis_s":"is","object_pl":"crutches","areis_pl":"are","ngram":"crutch"}
+{"class_id":"\/m\/015x4r","display_name":"Cucumber","object_s":"cucumber","areis_s":"is","object_pl":"cucumbers","areis_pl":"are","ngram":"cucumber"}
+{"class_id":"\/m\/03rszm","display_name":"Curtain","object_s":"curtain","areis_s":"is","object_pl":"curtains","areis_pl":"are","ngram":"curtain"}
+{"class_id":"\/m\/02pdsw","display_name":"Cutting board","object_s":"cutting board","areis_s":"is","object_pl":"cutting boards","areis_pl":"are","ngram":"cut board"}
+{"class_id":"\/m\/02gzp","display_name":"Dagger","object_s":"dagger","areis_s":"is","object_pl":"daggers","areis_pl":"are","ngram":"dagger"}
+{"class_id":"\/m\/09kx5","display_name":"Deer","object_s":"deer","areis_s":"is","object_pl":"deers","areis_pl":"are","ngram":"deer"}
+{"class_id":"\/m\/01y9k5","display_name":"Desk","object_s":"desk","areis_s":"is","object_pl":"desks","areis_pl":"are","ngram":"desk"}
+{"class_id":"\/m\/0270h","display_name":"Dessert","object_s":"dessert","areis_s":"is","object_pl":"desserts","areis_pl":"are","ngram":"dessert"}
+{"class_id":"\/m\/0f571","display_name":"Diaper","object_s":"diaper","areis_s":"is","object_pl":"diapers","areis_pl":"are","ngram":"diaper"}
+{"class_id":"\/m\/029b3","display_name":"Dice","object_s":"dice","areis_s":"is","object_pl":"dice","areis_pl":"are","ngram":"dice"}
+{"class_id":"\/m\/029tx","display_name":"Dinosaur","object_s":"dinosaur","areis_s":"is","object_pl":"dinosaurs","areis_pl":"are","ngram":"dinosaur"}
+{"class_id":"\/m\/0ky7b","display_name":"Dishwasher","object_s":"dishwasher","areis_s":"is","object_pl":"dishwashers","areis_pl":"are","ngram":"dishwasher"}
+{"class_id":"\/m\/0bt9lr","display_name":"Dog","object_s":"dog","areis_s":"is","object_pl":"dogs","areis_pl":"are","ngram":"dog"}
+{"class_id":"\/m\/0167gd","display_name":"Doll","object_s":"doll","areis_s":"is","object_pl":"dolls","areis_pl":"are","ngram":"doll"}
+{"class_id":"\/m\/02hj4","display_name":"Dolphin","object_s":"dolphin","areis_s":"is","object_pl":"dolphins","areis_pl":"are","ngram":"dolphin"}
+{"class_id":"\/m\/02dgv","display_name":"Door","object_s":"door","areis_s":"is","object_pl":"doors","areis_pl":"are","ngram":"door"}
+{"class_id":"\/m\/03c7gz","display_name":"Door handle","object_s":"door handle","areis_s":"is","object_pl":"door handles","areis_pl":"are","ngram":"door handle"}
+{"class_id":"\/m\/0jy4k","display_name":"Doughnut","object_s":"doughnut","areis_s":"is","object_pl":"doughnuts","areis_pl":"are","ngram":"doughnut"}
+{"class_id":"\/m\/0ft9s","display_name":"Dragonfly","object_s":"dragonfly","areis_s":"is","object_pl":"dragonflies","areis_pl":"are","ngram":"dragonfly"}
+{"class_id":"\/m\/0fqfqc","display_name":"Drawer","object_s":"drawer","areis_s":"is","object_pl":"drawers","areis_pl":"are","ngram":"drawer"}
+{"class_id":"\/m\/01d40f","display_name":"Dress","object_s":"dress","areis_s":"is","object_pl":"dresses","areis_pl":"are","ngram":"dress"}
+{"class_id":"\/m\/01d380","display_name":"Drill (Tool)","object_s":"drill","areis_s":"is","object_pl":"drills","areis_pl":"are","ngram":"drill"}
+{"class_id":"\/m\/0271t","display_name":"Drink","object_s":"drink","areis_s":"is","object_pl":"drinks","areis_pl":"are","ngram":"drink"}
+{"class_id":"\/m\/03v5tg","display_name":"Drinking straw","object_s":"drinking straw","areis_s":"is","object_pl":"drinking straws","areis_pl":"are","ngram":"drink straw"}
+{"class_id":"\/m\/026t6","display_name":"Drum","object_s":"drum","areis_s":"is","object_pl":"drums","areis_pl":"are","ngram":"drum"}
+{"class_id":"\/m\/09ddx","display_name":"Duck","object_s":"duck","areis_s":"is","object_pl":"ducks","areis_pl":"are","ngram":"duck"}
+{"class_id":"\/m\/04h8sr","display_name":"Dumbbell","object_s":"dumbbell","areis_s":"is","object_pl":"dumbbells","areis_pl":"are","ngram":"dumbbell"}
+{"class_id":"\/m\/09csl","display_name":"Eagle","object_s":"eagle","areis_s":"is","object_pl":"eagles","areis_pl":"are","ngram":"eagle"}
+{"class_id":"\/m\/01r546","display_name":"Earrings","object_s":"earring","areis_s":"is","object_pl":"earrings","areis_pl":"are","ngram":"earring"}
+{"class_id":"\/m\/02g387","display_name":"Egg","object_s":"egg","areis_s":"is","object_pl":"eggs","areis_pl":"are","ngram":"egg"}
+{"class_id":"\/m\/02dmz4","display_name":"Egg yolk","object_s":"egg yolk","areis_s":"is","object_pl":"egg yolk","areis_pl":"is","ngram":"egg yolk"}
+{"class_id":"\/m\/0cdk2","display_name":"Eggplant","object_s":"eggplant","areis_s":"is","object_pl":"eggplants","areis_pl":"are","ngram":"eggplant"}
+{"class_id":"\/m\/0bwd_0j","display_name":"Elephant","object_s":"elephant","areis_s":"is","object_pl":"elephants","areis_pl":"are","ngram":"elephant"}
+{"class_id":"\/m\/02qv1","display_name":"Emerald","object_s":"emerald","areis_s":"is","object_pl":"emeralds","areis_pl":"are","ngram":"emerald"}
+{"class_id":"\/m\/0frqm","display_name":"Envelope","object_s":"envelope","areis_s":"is","object_pl":"envelopes","areis_pl":"are","ngram":"envelope"}
+{"class_id":"\/m\/02fh7f","display_name":"Eraser","object_s":"eraser","areis_s":"is","object_pl":"erasers","areis_pl":"are","ngram":"eraser"}
+{"class_id":"\/m\/02fq_6","display_name":"Fedora","object_s":"fedora","areis_s":"is","object_pl":"fedoras","areis_pl":"are","ngram":"fedora"}
+{"class_id":"\/m\/01205h","display_name":"Ferret","object_s":"ferret","areis_s":"is","object_pl":"ferrets","areis_pl":"are","ngram":"ferret"}
+{"class_id":"\/m\/047j0r","display_name":"Filing cabinet","object_s":"filing cabinet","areis_s":"is","object_pl":"filing cabinets","areis_pl":"are","ngram":"file cabinet"}
+{"class_id":"\/m\/02_41","display_name":"Fire","object_s":"fire","areis_s":"is","object_pl":"fires","areis_pl":"are","ngram":"fire"}
+{"class_id":"\/m\/01nl4x","display_name":"Fire extinguisher","object_s":"fire extinguisher","areis_s":"is","object_pl":"fire extinguishers","areis_pl":"are","ngram":"fire extinguisher"}
+{"class_id":"\/m\/01pns0","display_name":"Fire hydrant","object_s":"fire hydrant","areis_s":"is","object_pl":"fire hydrants","areis_pl":"are","ngram":"fire hydrant"}
+{"class_id":"\/m\/03tw93","display_name":"Fireplace","object_s":"fireplace","areis_s":"is","object_pl":"fireplaces","areis_pl":"are","ngram":"fireplace"}
+{"class_id":"\/m\/0ch_cf","display_name":"Fish","object_s":"fish","areis_s":"is","object_pl":"fish","areis_pl":"are","ngram":"fish"}
+{"class_id":"\/m\/03120","display_name":"Flag","object_s":"flag","areis_s":"is","object_pl":"flags","areis_pl":"are","ngram":"flag"}
+{"class_id":"\/m\/0163q8","display_name":"Flamingo","object_s":"flamingo","areis_s":"is","object_pl":"flamingos","areis_pl":"are","ngram":"flamingos"}
+{"class_id":"\/m\/01kb5b","display_name":"Flashlight","object_s":"flashlight","areis_s":"is","object_pl":"flashlights","areis_pl":"are","ngram":"flashlight"}
+{"class_id":"\/m\/0fkw3","display_name":"Flour","object_s":"flour","areis_s":"is","object_pl":"flour","areis_pl":"is","ngram":"flour"}
+{"class_id":"\/m\/0c9ph5","display_name":"Flower","object_s":"flower","areis_s":"is","object_pl":"flowers","areis_pl":"are","ngram":"flower"}
+{"class_id":"\/m\/0fm3zh","display_name":"Flowerpot","object_s":"flowerpot","areis_s":"is","object_pl":"flowerpots","areis_pl":"are","ngram":"flowerpot"}
+{"class_id":"\/m\/0l14j_","display_name":"Flute","object_s":"flute","areis_s":"is","object_pl":"flutes","areis_pl":"are","ngram":"flute"}
+{"class_id":"\/m\/02wmf","display_name":"Flying disc","object_s":"flying disc","areis_s":"is","object_pl":"flying discs","areis_pl":"are","ngram":"fly disc"}
+{"class_id":"\/m\/01226z","display_name":"Football","object_s":"football","areis_s":"is","object_pl":"footballs","areis_pl":"are","ngram":"football"}
+{"class_id":"\/m\/07qxg_","display_name":"Football helmet","object_s":"football helmet","areis_s":"is","object_pl":"football helmets","areis_pl":"are","ngram":"football helmet"}
+{"class_id":"\/m\/09j5n","display_name":"Footwear","object_s":null,"areis_s":null,"object_pl":"footwear","areis_pl":"is","ngram":"footwear"}
+{"class_id":"\/m\/0dt3t","display_name":"Fork","object_s":"fork","areis_s":"is","object_pl":"forks","areis_pl":"are","ngram":"fork"}
+{"class_id":"\/m\/0306r","display_name":"Fox","object_s":"fox","areis_s":"is","object_pl":"foxes","areis_pl":"are","ngram":"fox"}
+{"class_id":"\/m\/02y6n","display_name":"French fries","object_s":"french fry","areis_s":"is","object_pl":"french fries","areis_pl":"are","ngram":"french fry"}
+{"class_id":"\/m\/09ld4","display_name":"Frog","object_s":"frog","areis_s":"is","object_pl":"frogs","areis_pl":"are","ngram":"frog"}
+{"class_id":"\/m\/02xwb","display_name":"Fruit","object_s":"fruit","areis_s":"is","object_pl":"fruits","areis_pl":"are","ngram":"fruit"}
+{"class_id":"\/m\/04v6l4","display_name":"Frying pan","object_s":"frying pan","areis_s":"is","object_pl":"frying pans","areis_pl":"are","ngram":"fry pan"}
+{"class_id":"\/m\/0c_jw","display_name":"Furniture","object_s":"furniture","areis_s":"is","object_pl":"furniture","areis_pl":"is","ngram":"furniture"}
+{"class_id":"\/m\/0dbrl","display_name":"Garlic","object_s":"garlic","areis_s":"is","object_pl":"garlic","areis_pl":"is","ngram":"garlic"}
+{"class_id":"\/m\/02wv84t","display_name":"Gas stove","object_s":"gas stove","areis_s":"is","object_pl":"gas stoves","areis_pl":"are","ngram":"gas stove"}
+{"class_id":"\/m\/03bk1","display_name":"Giraffe","object_s":"giraffe","areis_s":"is","object_pl":"giraffes","areis_pl":"are","ngram":"giraffe"}
+{"class_id":"\/m\/0174n1","display_name":"Glove","object_s":"glove","areis_s":"is","object_pl":"gloves","areis_pl":"are","ngram":"glove"}
+{"class_id":"\/m\/03fwl","display_name":"Goat","object_s":"goat","areis_s":"is","object_pl":"goats","areis_pl":"are","ngram":"goat"}
+{"class_id":"\/m\/03fj2","display_name":"Goldfish","object_s":"goldfish","areis_s":"is","object_pl":"goldfish","areis_pl":"are","ngram":"goldfish"}
+{"class_id":"\/m\/044r5d","display_name":"Golf ball","object_s":"golf ball","areis_s":"is","object_pl":"golf balls","areis_pl":"are","ngram":"golf ball"}
+{"class_id":"\/m\/0323sq","display_name":"Golf cart","object_s":"golf cart","areis_s":"is","object_pl":"golf carts","areis_pl":"are","ngram":"golf cart"}
+{"class_id":"\/m\/02068x","display_name":"Gondola","object_s":"gondola","areis_s":"is","object_pl":"gondolas","areis_pl":"are","ngram":"gondola"}
+{"class_id":"\/m\/0dbvp","display_name":"Goose","object_s":"goose","areis_s":"is","object_pl":"geese","areis_pl":"are","ngram":"geese"}
+{"class_id":"\/m\/0388q","display_name":"Grape","object_s":"grape","areis_s":"is","object_pl":"grapes","areis_pl":"are","ngram":"grape"}
+{"class_id":"\/m\/0hqkz","display_name":"Grapefruit","object_s":"grapefruit","areis_s":"is","object_pl":"grapefruits","areis_pl":"are","ngram":"grapefruit"}
+{"class_id":"\/m\/03_0x5","display_name":"Grasshopper","object_s":"grasshopper","areis_s":"is","object_pl":"grasshoppers","areis_pl":"are","ngram":"grasshopper"}
+{"class_id":"\/m\/02g30s","display_name":"Guacamole","object_s":null,"areis_s":null,"object_pl":"guacamole","areis_pl":"is","ngram":"guacamole"}
+{"class_id":"\/m\/0342h","display_name":"Guitar","object_s":"guitar","areis_s":"is","object_pl":"guitars","areis_pl":"are","ngram":"guitar"}
+{"class_id":"\/m\/03wvsk","display_name":"Hair dryer","object_s":"hair dryer","areis_s":"is","object_pl":"hair dryers","areis_pl":"are","ngram":"hair dryer"}
+{"class_id":"\/m\/0cdn1","display_name":"Hamburger","object_s":"hamburger","areis_s":"is","object_pl":"hamburgers","areis_pl":"are","ngram":"hamburger"}
+{"class_id":"\/m\/03qrc","display_name":"Hamster","object_s":"hamster","areis_s":"is","object_pl":"hamsters","areis_pl":"are","ngram":"hamster"}
+{"class_id":"\/m\/0c3m8g","display_name":"Hand dryer","object_s":"hand dryer","areis_s":"is","object_pl":"hand dryers","areis_pl":"are","ngram":"hand dryer"}
+{"class_id":"\/m\/080hkjn","display_name":"Handbag","object_s":"handbag","areis_s":"is","object_pl":"handbags","areis_pl":"are","ngram":"handbag"}
+{"class_id":"\/m\/0gxl3","display_name":"Handgun","object_s":"handgun","areis_s":"is","object_pl":"handguns","areis_pl":"are","ngram":"handgun"}
+{"class_id":"\/m\/02dl1y","display_name":"Hat","object_s":"hat","areis_s":"is","object_pl":"hats","areis_pl":"are","ngram":"hat"}
+{"class_id":"\/m\/01b7fy","display_name":"Headphones","object_s":null,"areis_s":null,"object_pl":"headphones","areis_pl":"are","ngram":"headphone"}
+{"class_id":"\/m\/0cl4p","display_name":"Hedgehog","object_s":"hedgehog","areis_s":"is","object_pl":"hedgehogs","areis_pl":"are","ngram":"hedgehog"}
+{"class_id":"\/m\/09ct_","display_name":"Helicopter","object_s":"helicopter","areis_s":"is","object_pl":"helicopters","areis_pl":"are","ngram":"helicopter"}
+{"class_id":"\/m\/0zvk5","display_name":"Helmet","object_s":"helmet","areis_s":"is","object_pl":"helmets","areis_pl":"are","ngram":"helmet"}
+{"class_id":"\/m\/03gq1","display_name":"Herb","object_s":"herb","areis_s":"is","object_pl":"herbs","areis_pl":"are","ngram":"herb"}
+{"class_id":"\/m\/06k2mb","display_name":"High heels","object_s":"high heel","areis_s":"is","object_pl":"high heels","areis_pl":"are","ngram":"high heel"}
+{"class_id":"\/m\/09f20","display_name":"Hippopotamus","object_s":"hippopotamus","areis_s":"is","object_pl":"hippopotamuses","areis_pl":"are","ngram":"hippopotamuse"}
+{"class_id":"\/m\/03qmh","display_name":"Honey","object_s":"honey","areis_s":"is","object_pl":"honey","areis_pl":"is","ngram":"honey"}
+{"class_id":"\/m\/0fz0h","display_name":"Honeycomb","object_s":"honeycomb","areis_s":"is","object_pl":"honeycombs","areis_pl":"are","ngram":"honeycomb"}
+{"class_id":"\/m\/03k3r","display_name":"Horse","object_s":"horse","areis_s":"is","object_pl":"horses","areis_pl":"are","ngram":"horse"}
+{"class_id":"\/m\/01b9xk","display_name":"Hot dog","object_s":"hot dog","areis_s":"is","object_pl":"hot dogs","areis_pl":"are","ngram":"hot dog"}
+{"class_id":"\/m\/03jm5","display_name":"House","object_s":"house","areis_s":"is","object_pl":"houses","areis_pl":"are","ngram":"house"}
+{"class_id":"\/m\/03fp41","display_name":"Houseplant","object_s":"houseplant","areis_s":"is","object_pl":"houseplants","areis_pl":"are","ngram":"houseplant"}
+{"class_id":"\/m\/0h8l4fh","display_name":"Light bulb","object_s":"light bulb","areis_s":"is","object_pl":"light bulbs","areis_pl":"are","ngram":"light bulb"}
+{"class_id":"\/m\/014sv8","display_name":"Human eye","object_s":"human eye","areis_s":"is","object_pl":"human eyes","areis_pl":"are","ngram":"human eye"}
+{"class_id":"\/m\/03q69","display_name":"Human hair","object_s":null,"areis_s":null,"object_pl":"human hair","areis_pl":"is","ngram":"human hair"}
+{"class_id":"\/m\/0cxn2","display_name":"Ice cream","object_s":"ice cream","areis_s":"is","object_pl":"ice cream","areis_pl":"is","ngram":"ice cream"}
+{"class_id":"\/m\/061hd_","display_name":"Infant bed","object_s":"infant bed","areis_s":"is","object_pl":"infant beds","areis_pl":"are","ngram":"infant bed"}
+{"class_id":"\/m\/03yhk","display_name":"Ink","object_s":"ink","areis_s":"is","object_pl":"ink","areis_pl":"is","ngram":"ink"}
+{"class_id":"\/m\/0mcx2","display_name":"Ipod","object_s":"ipod","areis_s":"is","object_pl":"ipods","areis_pl":"are","ngram":"ipod"}
+{"class_id":"\/m\/03xgl","display_name":"Ivory","object_s":"ivory","areis_s":"is","object_pl":"ivory","areis_pl":"is","ngram":"ivory"}
+{"class_id":"\/m\/032b3c","display_name":"Jacket","object_s":"jacket","areis_s":"is","object_pl":"jackets","areis_pl":"are","ngram":"jacket"}
+{"class_id":"\/m\/065h6l","display_name":"Jacuzzi","object_s":"jacuzzi","areis_s":"is","object_pl":"jacuzzis","areis_pl":"are","ngram":"jacuzzi"}
+{"class_id":"\/m\/01b5dy","display_name":"Jade","object_s":"jade","areis_s":"is","object_pl":"jade","areis_pl":"is","ngram":"jade"}
+{"class_id":"\/m\/0449p","display_name":"Jaguar (Animal)","object_s":"jaguar","areis_s":"is","object_pl":"jaguars","areis_pl":"are","ngram":"jaguar"}
+{"class_id":"\/m\/0fly7","display_name":"Jeans","object_s":null,"areis_s":null,"object_pl":"jeans","areis_pl":"are","ngram":"jean"}
+{"class_id":"\/m\/0d8zb","display_name":"Jellyfish","object_s":"jellyfish","areis_s":"is","object_pl":"jellyfish","areis_pl":"are","ngram":"jellyfish"}
+{"class_id":"\/m\/08hvt4","display_name":"Jug","object_s":"jug","areis_s":"is","object_pl":"jugs","areis_pl":"are","ngram":"jug"}
+{"class_id":"\/m\/01z1kdw","display_name":"Juice","object_s":"juice","areis_s":"is","object_pl":"juices","areis_pl":"are","ngram":"juice"}
+{"class_id":"\/m\/04c0y","display_name":"Kangaroo","object_s":"kangaroo","areis_s":"is","object_pl":"kangaroos","areis_pl":"are","ngram":"kangaroo"}
+{"class_id":"\/m\/0ht80","display_name":"Ketchup","object_s":"ketchup","areis_s":"is","object_pl":"ketchup","areis_pl":"is","ngram":"ketchup"}
+{"class_id":"\/m\/03s_tn","display_name":"Kettle","object_s":"kettle","areis_s":"is","object_pl":"kettles","areis_pl":"are","ngram":"kettle"}
+{"class_id":"\/m\/058qzx","display_name":"Kitchen knife","object_s":"kitchen knife","areis_s":"is","object_pl":"kitchen knives","areis_pl":"are","ngram":"kitchen knife"}
+{"class_id":"\/m\/02zt3","display_name":"Kite","object_s":"kite","areis_s":"is","object_pl":"kites","areis_pl":"are","ngram":"kite"}
+{"class_id":"\/m\/04f85","display_name":"Kiwi","object_s":"kiwi","areis_s":"is","object_pl":"kiwis","areis_pl":"are","ngram":"kiwis"}
+{"class_id":"\/m\/04ctx","display_name":"Knife","object_s":"knife","areis_s":"is","object_pl":"knives","areis_pl":"are","ngram":"knife"}
+{"class_id":"\/m\/04cp_","display_name":"Koala","object_s":"koala","areis_s":"is","object_pl":"koalas","areis_pl":"are","ngram":"koala"}
+{"class_id":"\/m\/012w5l","display_name":"Ladder","object_s":"ladder","areis_s":"is","object_pl":"ladders","areis_pl":"are","ngram":"ladder"}
+{"class_id":"\/m\/027rl48","display_name":"Ladle","object_s":"ladle","areis_s":"is","object_pl":"ladles","areis_pl":"are","ngram":"ladle"}
+{"class_id":"\/m\/0gj37","display_name":"Ladybug","object_s":"ladybug","areis_s":"is","object_pl":"ladybugs","areis_pl":"are","ngram":"ladybug"}
+{"class_id":"\/m\/0l154","display_name":"Lagoon","object_s":"lagoon","areis_s":"is","object_pl":"lagoons","areis_pl":"are","ngram":"lagoon"}
+{"class_id":"\/m\/0dtln","display_name":"Lamp","object_s":"lamp","areis_s":"is","object_pl":"lamps","areis_pl":"are","ngram":"lamp"}
+{"class_id":"\/m\/01jfsr","display_name":"Lantern","object_s":"lantern","areis_s":"is","object_pl":"lanterns","areis_pl":"are","ngram":"lantern"}
+{"class_id":"\/m\/01c648","display_name":"Laptop","object_s":"laptop","areis_s":"is","object_pl":"laptops","areis_pl":"are","ngram":"laptop"}
+{"class_id":"\/m\/04gth","display_name":"Lavender (Plant)","object_s":"lavender","areis_s":"is","object_pl":"lavender","areis_pl":"is","ngram":"lavender"}
+{"class_id":"\/m\/09t49","display_name":"Leaf","object_s":"leaf","areis_s":"is","object_pl":"leaves","areis_pl":"are","ngram":"leave"}
+{"class_id":"\/m\/09k_b","display_name":"Lemon","object_s":"lemon","areis_s":"is","object_pl":"lemons","areis_pl":"are","ngram":"lemon"}
+{"class_id":"\/m\/0c29q","display_name":"Leopard","object_s":"leopard","areis_s":"is","object_pl":"leopards","areis_pl":"are","ngram":"leopard"}
+{"class_id":"\/m\/03jbxj","display_name":"Light switch","object_s":"light switch","areis_s":"is","object_pl":"light switches","areis_pl":"are","ngram":"light switch"}
+{"class_id":"\/m\/04h7h","display_name":"Lighthouse","object_s":"lighthouse","areis_s":"is","object_pl":"lighthouses","areis_pl":"are","ngram":"lighthouse"}
+{"class_id":"\/m\/0jqgx","display_name":"Lily","object_s":"lily","areis_s":"is","object_pl":"lilies","areis_pl":"are","ngram":"lily"}
+{"class_id":"\/m\/01mt0b","display_name":"Lime (Fruit)","object_s":"lime","areis_s":"is","object_pl":"limes","areis_pl":"are","ngram":"lime"}
+{"class_id":"\/m\/01lcw4","display_name":"Limousine","object_s":"limousine","areis_s":"is","object_pl":"limousines","areis_pl":"are","ngram":"limousine"}
+{"class_id":"\/m\/096mb","display_name":"Lion","object_s":"lion","areis_s":"is","object_pl":"lions","areis_pl":"are","ngram":"lion"}
+{"class_id":"\/m\/06pj2k","display_name":"Lip","object_s":"lip","areis_s":"is","object_pl":"lips","areis_pl":"are","ngram":"lip"}
+{"class_id":"\/m\/06c7f7","display_name":"Lipstick","object_s":"lipstick","areis_s":"is","object_pl":"lipsticks","areis_pl":"are","ngram":"lipstick"}
+{"class_id":"\/m\/04m9y","display_name":"Lizard","object_s":"lizard","areis_s":"is","object_pl":"lizards","areis_pl":"are","ngram":"lizard"}
+{"class_id":"\/m\/0cjq5","display_name":"Lobster","object_s":"lobster","areis_s":"is","object_pl":"lobsters","areis_pl":"are","ngram":"lobster"}
+{"class_id":"\/m\/02xcpb","display_name":"Lollipop","object_s":"lollipop","areis_s":"is","object_pl":"lollipops","areis_pl":"are","ngram":"lollipop"}
+{"class_id":"\/m\/0703r8","display_name":"Loveseat","object_s":"loveseat","areis_s":"is","object_pl":"loveseats","areis_pl":"are","ngram":"loveseat"}
+{"class_id":"\/m\/04g2r","display_name":"Lynx","object_s":"lynx","areis_s":"is","object_pl":"lynxes","areis_pl":"are","ngram":"lynx"}
+{"class_id":"\/m\/0fldg","display_name":"Mango","object_s":"mango","areis_s":"is","object_pl":"mangoes","areis_pl":"are","ngram":"mangoe"}
+{"class_id":"\/m\/0lgk9","display_name":"Marshmallow","object_s":"marshmallow","areis_s":"is","object_pl":"marshmallows","areis_pl":"are","ngram":"marshmallow"}
+{"class_id":"\/m\/0grq0","display_name":"Mayonnaise","object_s":"mayonnaise","areis_s":"is","object_pl":"mayonnaise","areis_pl":"is","ngram":"mayonnaise"}
+{"class_id":"\/m\/07v9_z","display_name":"Measuring cup","object_s":"measuring cup","areis_s":"is","object_pl":"measuring cups","areis_pl":"are","ngram":"measure cup"}
+{"class_id":"\/m\/0hg7b","display_name":"Microphone","object_s":"microphone","areis_s":"is","object_pl":"microphones","areis_pl":"are","ngram":"microphone"}
+{"class_id":"\/m\/0fx9l","display_name":"Microwave oven","object_s":"microwave oven","areis_s":"is","object_pl":"microwave ovens","areis_pl":"are","ngram":"microwave oven"}
+{"class_id":"\/m\/04zpv","display_name":"Milk","object_s":"milk","areis_s":"is","object_pl":"milk","areis_pl":"is","ngram":"milk"}
+{"class_id":"\/m\/01cmb2","display_name":"Miniskirt","object_s":"miniskirt","areis_s":"is","object_pl":"miniskirts","areis_pl":"are","ngram":"miniskirt"}
+{"class_id":"\/m\/063rgb","display_name":"Mixer","object_s":"mixer","areis_s":"is","object_pl":"mixers","areis_pl":"are","ngram":"mixer"}
+{"class_id":"\/m\/03hj559","display_name":"Mixing bowl","object_s":"mixing bowl","areis_s":"is","object_pl":"mixing bowls","areis_pl":"are","ngram":"mix bowl"}
+{"class_id":"\/m\/050k8","display_name":"Mobile phone","object_s":"mobile phone","areis_s":"is","object_pl":"mobile phones","areis_pl":"are","ngram":"mobile phone"}
+{"class_id":"\/m\/0dkxm","display_name":"Mold","object_s":"mold","areis_s":"is","object_pl":"mold","areis_pl":"is","ngram":"mold"}
+{"class_id":"\/m\/08pbxl","display_name":"Monkey","object_s":"monkey","areis_s":"is","object_pl":"monkeys","areis_pl":"are","ngram":"monkey"}
+{"class_id":"\/m\/04_sv","display_name":"Motorcycle","object_s":"motorcycle","areis_s":"is","object_pl":"motorcycles","areis_pl":"are","ngram":"motorcycle"}
+{"class_id":"\/m\/04rmv","display_name":"Mouse","object_s":"mouse","areis_s":"is","object_pl":"mice","areis_pl":"are","ngram":"mouse"}
+{"class_id":"\/m\/01tcjp","display_name":"Muffin","object_s":"muffin","areis_s":"is","object_pl":"muffins","areis_pl":"are","ngram":"muffin"}
+{"class_id":"\/m\/02jvh9","display_name":"Mug","object_s":"mug","areis_s":"is","object_pl":"mugs","areis_pl":"are","ngram":"mug"}
+{"class_id":"\/m\/0dbzx","display_name":"Mule","object_s":"mule","areis_s":"is","object_pl":"mules","areis_pl":"are","ngram":"mule"}
+{"class_id":"\/m\/052sf","display_name":"Mushroom","object_s":"mushroom","areis_s":"is","object_pl":"mushrooms","areis_pl":"are","ngram":"mushroom"}
+{"class_id":"\/m\/057cc","display_name":"Musical keyboard","object_s":"musical keyboard","areis_s":"is","object_pl":"musical keyboards","areis_pl":"are","ngram":"musical keyboard"}
+{"class_id":"\/m\/07_0xk","display_name":"Mustard (Food)","object_s":"mustard","areis_s":"is","object_pl":"mustard","areis_pl":"is","ngram":"mustard"}
+{"class_id":"\/m\/05bm6","display_name":"Nail (Construction)","object_s":"construction nail","areis_s":"is","object_pl":"construction nails","areis_pl":"are","ngram":"construction nail"}
+{"class_id":"\/m\/01bhhn","display_name":"Nail clipper","object_s":"nail clipper","areis_s":"is","object_pl":"nail clippers","areis_pl":"are","ngram":"nail clipper"}
+{"class_id":"\/m\/01llwg","display_name":"Necklace","object_s":"necklace","areis_s":"is","object_pl":"necklaces","areis_pl":"are","ngram":"necklace"}
+{"class_id":"\/m\/02z51p","display_name":"Nightstand","object_s":"nightstand","areis_s":"is","object_pl":"nightstands","areis_pl":"are","ngram":"nightstand"}
+{"class_id":"\/m\/01lbxg","display_name":"Nut (Food)","object_s":"nut","areis_s":"is","object_pl":"nuts","areis_pl":"are","ngram":"nut"}
+{"class_id":"\/m\/05mln","display_name":"Olive","object_s":"olive","areis_s":"is","object_pl":"olives","areis_pl":"are","ngram":"olive"}
+{"class_id":"\/m\/0dj75","display_name":"Onion","object_s":"onion","areis_s":"is","object_pl":"onions","areis_pl":"are","ngram":"onion"}
+{"class_id":"\/m\/0cyhj_","display_name":"Orange","object_s":"orange","areis_s":"is","object_pl":"oranges","areis_pl":"are","ngram":"orange"}
+{"class_id":"\/m\/05n4y","display_name":"Ostrich","object_s":"ostrich","areis_s":"is","object_pl":"ostriches","areis_pl":"are","ngram":"ostrich"}
+{"class_id":"\/m\/0cn6p","display_name":"Otter","object_s":"otter","areis_s":"is","object_pl":"otters","areis_pl":"are","ngram":"otter"}
+{"class_id":"\/m\/029bxz","display_name":"Oven","object_s":"oven","areis_s":"is","object_pl":"ovens","areis_pl":"are","ngram":"oven"}
+{"class_id":"\/m\/09d5_","display_name":"Owl","object_s":"owl","areis_s":"is","object_pl":"owls","areis_pl":"are","ngram":"owl"}
+{"class_id":"\/m\/0_cp5","display_name":"Oyster","object_s":"oyster","areis_s":"is","object_pl":"oysters","areis_pl":"are","ngram":"oyster"}
+{"class_id":"\/m\/014y4n","display_name":"Paddle","object_s":"paddle","areis_s":"is","object_pl":"paddles","areis_pl":"are","ngram":"paddle"}
+{"class_id":"\/m\/0cdl1","display_name":"Palm tree","object_s":"palm tree","areis_s":"is","object_pl":"palm trees","areis_pl":"are","ngram":"palm tree"}
+{"class_id":"\/m\/01dwwc","display_name":"Pancake","object_s":"pancake","areis_s":"is","object_pl":"pancakes","areis_pl":"are","ngram":"pancake"}
+{"class_id":"\/m\/03bj1","display_name":"Panda","object_s":"panda","areis_s":"is","object_pl":"pandas","areis_pl":"are","ngram":"panda"}
+{"class_id":"\/m\/080n7g","display_name":"Paper cutter","object_s":"paper cutter","areis_s":"is","object_pl":"paper cutters","areis_pl":"are","ngram":"paper cutter"}
+{"class_id":"\/m\/02w3r3","display_name":"Paper towel","object_s":"paper towel","areis_s":"is","object_pl":"paper towels","areis_pl":"are","ngram":"paper towel"}
+{"class_id":"\/m\/0cyfs","display_name":"Parachute","object_s":"parachute","areis_s":"is","object_pl":"parachutes","areis_pl":"are","ngram":"parachute"}
+{"class_id":"\/m\/015qbp","display_name":"Parking meter","object_s":"parking meter","areis_s":"is","object_pl":"parking meters","areis_pl":"are","ngram":"parking meter"}
+{"class_id":"\/m\/0gv1x","display_name":"Parrot","object_s":"parrot","areis_s":"is","object_pl":"parrots","areis_pl":"are","ngram":"parrot"}
+{"class_id":"\/m\/05sv1","display_name":"Passport","object_s":"passport","areis_s":"is","object_pl":"passports","areis_pl":"are","ngram":"passport"}
+{"class_id":"\/m\/05z55","display_name":"Pasta","object_s":"pasta","areis_s":"is","object_pl":"pasta","areis_pl":"is","ngram":"pasta"}
+{"class_id":"\/m\/0hnyx","display_name":"Pastry","object_s":"pastry","areis_s":"is","object_pl":"pastries","areis_pl":"are","ngram":"pastry"}
+{"class_id":"\/m\/0g5s7","display_name":"Pea","object_s":"pea","areis_s":"is","object_pl":"peas","areis_pl":"are","ngram":"pea"}
+{"class_id":"\/m\/0dj6p","display_name":"Peach","object_s":"peach","areis_s":"is","object_pl":"peaches","areis_pl":"are","ngram":"peach"}
+{"class_id":"\/m\/01qfcj","display_name":"Peanut butter","object_s":"peanut butter","areis_s":"is","object_pl":"peanut butter","areis_pl":"is","ngram":"peanut butter"}
+{"class_id":"\/m\/061_f","display_name":"Pear","object_s":"pear","areis_s":"is","object_pl":"pears","areis_pl":"are","ngram":"pear"}
+{"class_id":"\/m\/0ckwm9","display_name":"Peel","object_s":"peel","areis_s":"is","object_pl":"peels","areis_pl":"are","ngram":"peel"}
+{"class_id":"\/m\/0j4rl","display_name":"Pelican","object_s":"pelican","areis_s":"is","object_pl":"pelicans","areis_pl":"are","ngram":"pelican"}
+{"class_id":"\/m\/0k1tl","display_name":"Pen","object_s":"pen","areis_s":"is","object_pl":"pens","areis_pl":"are","ngram":"pen"}
+{"class_id":"\/m\/05676x","display_name":"Pencil case","object_s":"pencil case","areis_s":"is","object_pl":"pencil cases","areis_pl":"are","ngram":"pencil case"}
+{"class_id":"\/m\/076bq","display_name":"Segway","object_s":"segway","areis_s":"is","object_pl":"segways","areis_pl":"are","ngram":"segway"}
+{"class_id":"\/m\/02ddwp","display_name":"Pencil sharpener","object_s":"pencil sharpener","areis_s":"is","object_pl":"pencil sharpeners","areis_pl":"are","ngram":"pencil sharpener"}
+{"class_id":"\/m\/05z6w","display_name":"Penguin","object_s":"penguin","areis_s":"is","object_pl":"penguins","areis_pl":"are","ngram":"penguin"}
+{"class_id":"\/m\/0c3flmk","display_name":"Peppers","object_s":"peppers","areis_s":"is","object_pl":"peppers","areis_pl":"are","ngram":"pepper"}
+{"class_id":"\/m\/05r5c","display_name":"Piano","object_s":"piano","areis_s":"is","object_pl":"pianos","areis_pl":"are","ngram":"piano"}
+{"class_id":"\/m\/07kng9","display_name":"Picnic basket","object_s":"picnic basket","areis_s":"is","object_pl":"picnic baskets","areis_pl":"are","ngram":"picnic basket"}
+{"class_id":"\/m\/06z37_","display_name":"Picture frame","object_s":"picture frame","areis_s":"is","object_pl":"picture frames","areis_pl":"are","ngram":"picture frame"}
+{"class_id":"\/m\/068zj","display_name":"Pig","object_s":"pig","areis_s":"is","object_pl":"pigs","areis_pl":"are","ngram":"pig"}
+{"class_id":"\/m\/034c16","display_name":"Pillow","object_s":"pillow","areis_s":"is","object_pl":"pillows","areis_pl":"are","ngram":"pillow"}
+{"class_id":"\/m\/0fp6w","display_name":"Pineapple","object_s":"pineapple","areis_s":"is","object_pl":"pineapples","areis_pl":"are","ngram":"pineapple"}
+{"class_id":"\/m\/0663v","display_name":"Pizza","object_s":"pizza","areis_s":"is","object_pl":"pizzas","areis_pl":"are","ngram":"pizza"}
+{"class_id":"\/m\/08ks85","display_name":"Pizza cutter","object_s":"pizza cutter","areis_s":"is","object_pl":"pizza cutters","areis_pl":"are","ngram":"pizza cutter"}
+{"class_id":"\/m\/05s2s","display_name":"Plant","object_s":"plant","areis_s":"is","object_pl":"plants","areis_pl":"are","ngram":"plant"}
+{"class_id":"\/m\/05gqfk","display_name":"Plastic bag","object_s":"plastic bag","areis_s":"is","object_pl":"plastic bags","areis_pl":"are","ngram":"plastic bag"}
+{"class_id":"\/m\/050gv4","display_name":"Plate","object_s":"plate","areis_s":"is","object_pl":"plates","areis_pl":"are","ngram":"plate"}
+{"class_id":"\/m\/099ssp","display_name":"Platter","object_s":"platter","areis_s":"is","object_pl":"platters","areis_pl":"are","ngram":"platter"}
+{"class_id":"\/m\/0633h","display_name":"Polar bear","object_s":"polar bear","areis_s":"is","object_pl":"polar bears","areis_pl":"are","ngram":"polar bear"}
+{"class_id":"\/m\/0jwn_","display_name":"Pomegranate","object_s":"pomegranate","areis_s":"is","object_pl":"pomegranates","areis_pl":"are","ngram":"pomegranate"}
+{"class_id":"\/m\/01hrv5","display_name":"Popcorn","object_s":null,"areis_s":null,"object_pl":"popcorn","areis_pl":"is","ngram":"popcorn"}
+{"class_id":"\/m\/04m6gz","display_name":"Porch","object_s":"porch","areis_s":"is","object_pl":"porches","areis_pl":"are","ngram":"porch"}
+{"class_id":"\/m\/0c568","display_name":"Porcupine","object_s":"porcupine","areis_s":"is","object_pl":"porcupines","areis_pl":"are","ngram":"porcupine"}
+{"class_id":"\/m\/01n5jq","display_name":"Poster","object_s":"poster","areis_s":"is","object_pl":"posters","areis_pl":"are","ngram":"poster"}
+{"class_id":"\/m\/05vtc","display_name":"Potato","object_s":"potato","areis_s":"is","object_pl":"potatoes","areis_pl":"are","ngram":"potato"}
+{"class_id":"\/m\/01f91_","display_name":"Pretzel","object_s":"pretzel","areis_s":"is","object_pl":"pretzels","areis_pl":"are","ngram":"pretzel"}
+{"class_id":"\/m\/01m4t","display_name":"Printer","object_s":"printer","areis_s":"is","object_pl":"printers","areis_pl":"are","ngram":"printer"}
+{"class_id":"\/m\/05zsy","display_name":"Pumpkin","object_s":"pumpkin","areis_s":"is","object_pl":"pumpkins","areis_pl":"are","ngram":"pumpkin"}
+{"class_id":"\/m\/0420v5","display_name":"Punching bag","object_s":"punching bag","areis_s":"is","object_pl":"punching bags","areis_pl":"are","ngram":"punching bag"}
+{"class_id":"\/m\/06mf6","display_name":"Rabbit","object_s":"rabbit","areis_s":"is","object_pl":"rabbits","areis_pl":"are","ngram":"rabbit"}
+{"class_id":"\/m\/0dq75","display_name":"Raccoon","object_s":"raccoon","areis_s":"is","object_pl":"raccoons","areis_pl":"are","ngram":"raccoon"}
+{"class_id":"\/m\/015x5n","display_name":"Radish","object_s":"radish","areis_s":"is","object_pl":"radishes","areis_pl":"are","ngram":"radishe"}
+{"class_id":"\/m\/01pd2g","display_name":"Raspberry","object_s":"raspberry","areis_s":"is","object_pl":"raspberries","areis_pl":"are","ngram":"raspberry"}
+{"class_id":"\/m\/06lk1","display_name":"Rat","object_s":"rat","areis_s":"is","object_pl":"rats","areis_pl":"are","ngram":"rat"}
+{"class_id":"\/m\/06j2d","display_name":"Raven","object_s":"raven","areis_s":"is","object_pl":"ravens","areis_pl":"are","ngram":"raven"}
+{"class_id":"\/m\/040b_t","display_name":"Refrigerator","object_s":"refrigerator","areis_s":"is","object_pl":"refrigerators","areis_pl":"are","ngram":"refrigerator"}
+{"class_id":"\/m\/0qjjc","display_name":"Remote control","object_s":"remote control","areis_s":"is","object_pl":"remote controls","areis_pl":"are","ngram":"remote control"}
+{"class_id":"\/m\/03d443","display_name":"Rhinoceros","object_s":"rhinoceros","areis_s":"is","object_pl":"rhinoceros","areis_pl":"are","ngram":"rhinocero"}
+{"class_id":"\/m\/09759","display_name":"Rice","object_s":"rice","areis_s":"is","object_pl":"rice","areis_pl":"is","ngram":"rice"}
+{"class_id":"\/m\/06c54","display_name":"Rifle","object_s":"rifle","areis_s":"is","object_pl":"rifles","areis_pl":"are","ngram":"rifle"}
+{"class_id":"\/m\/04zwwv","display_name":"Ring binder","object_s":"ring binder","areis_s":"is","object_pl":"ring binders","areis_pl":"are","ngram":"ring binder"}
+{"class_id":"\/m\/01cbzq","display_name":"Rock","object_s":"rock","areis_s":"is","object_pl":"rocks","areis_pl":"are","ngram":"rock"}
+{"class_id":"\/m\/09rvcxw","display_name":"Rocket","object_s":"rocket","areis_s":"is","object_pl":"rockets","areis_pl":"are","ngram":"rocket"}
+{"class_id":"\/m\/06m11","display_name":"Rose","object_s":"rose","areis_s":"is","object_pl":"roses","areis_pl":"are","ngram":"rose"}
+{"class_id":"\/m\/02v3z_","display_name":"Rubber ducky","object_s":"rubber ducky","areis_s":"is","object_pl":"rubber duckies","areis_pl":"are","ngram":"rubber ducky"}
+{"class_id":"\/m\/0bxr4","display_name":"Ruby","object_s":"ruby","areis_s":"is","object_pl":"rubies","areis_pl":"are","ngram":"ruby"}
+{"class_id":"\/m\/0wdt60w","display_name":"Rugby ball","object_s":"rugby ball","areis_s":"is","object_pl":"rugby balls","areis_pl":"are","ngram":"rugby ball"}
+{"class_id":"\/m\/0hdln","display_name":"Ruler","object_s":"ruler","areis_s":"is","object_pl":"rulers","areis_pl":"are","ngram":"ruler"}
+{"class_id":"\/m\/0grw1","display_name":"Salad","object_s":"salad","areis_s":"is","object_pl":"salads","areis_pl":"are","ngram":"salad"}
+{"class_id":"\/m\/06vrz","display_name":"Salt","object_s":"salt","areis_s":"is","object_pl":"salt","areis_pl":"is","ngram":"salt"}
+{"class_id":"\/m\/099fz","display_name":"Sand","object_s":"sand","areis_s":"is","object_pl":"sand","areis_pl":"is","ngram":"sand"}
+{"class_id":"\/m\/03nfch","display_name":"Sandal","object_s":"sandal","areis_s":"is","object_pl":"sandals","areis_pl":"are","ngram":"sandal"}
+{"class_id":"\/m\/0l515","display_name":"Sandwich","object_s":"sandwich","areis_s":"is","object_pl":"sandwiches","areis_pl":"are","ngram":"sandwich"}
+{"class_id":"\/m\/03q5c7","display_name":"Saucer","object_s":"saucer","areis_s":"is","object_pl":"saucers","areis_pl":"are","ngram":"saucer"}
+{"class_id":"\/m\/03txqz","display_name":"Scale","object_s":"scale","areis_s":"is","object_pl":"scales","areis_pl":"are","ngram":"scale"}
+{"class_id":"\/m\/02h19r","display_name":"Scarf","object_s":"scarf","areis_s":"is","object_pl":"scarves","areis_pl":"are","ngram":"scarve"}
+{"class_id":"\/m\/01lsmm","display_name":"Scissors","object_s":"scissors","areis_s":"is","object_pl":"scissors","areis_pl":"are","ngram":"scissor"}
+{"class_id":"\/m\/0755b","display_name":"Scorpion","object_s":"scorpion","areis_s":"is","object_pl":"scorpions","areis_pl":"are","ngram":"scorpion"}
+{"class_id":"\/m\/01bms0","display_name":"Screwdriver","object_s":"screwdriver","areis_s":"is","object_pl":"screwdrivers","areis_pl":"are","ngram":"screwdriver"}
+{"class_id":"\/m\/0gd36","display_name":"Sea lion","object_s":"sea lion","areis_s":"is","object_pl":"sea lions","areis_pl":"are","ngram":"sea lion"}
+{"class_id":"\/m\/0120dh","display_name":"Sea turtle","object_s":"sea turtle","areis_s":"is","object_pl":"sea turtles","areis_pl":"are","ngram":"sea turtle"}
+{"class_id":"\/m\/0nybt","display_name":"Seahorse","object_s":"seahorse","areis_s":"is","object_pl":"seahorses","areis_pl":"are","ngram":"seahorse"}
+{"class_id":"\/m\/0gd3n","display_name":"Seal","object_s":"seal","areis_s":"is","object_pl":"seals","areis_pl":"are","ngram":"seal"}
+{"class_id":"\/m\/0dkzw","display_name":"Seat belt","object_s":"seat belt","areis_s":"is","object_pl":"seat belts","areis_pl":"are","ngram":"seat belt"}
+{"class_id":"\/m\/0by6g","display_name":"Shark","object_s":"shark","areis_s":"is","object_pl":"sharks","areis_pl":"are","ngram":"shark"}
+{"class_id":"\/m\/07bgp","display_name":"Sheep","object_s":"sheep","areis_s":"is","object_pl":"sheep","areis_pl":"are","ngram":"sheep"}
+{"class_id":"\/m\/0gjbg72","display_name":"Shelf","object_s":"shelf","areis_s":"is","object_pl":"shelves","areis_pl":"are","ngram":"shelf"}
+{"class_id":"\/m\/0fbdv","display_name":"Shellfish","object_s":"shellfish","areis_s":"is","object_pl":"shellfish","areis_pl":"are","ngram":"shellfish"}
+{"class_id":"\/m\/01n4qj","display_name":"Shirt","object_s":"shirt","areis_s":"is","object_pl":"shirts","areis_pl":"are","ngram":"shirt"}
+{"class_id":"\/m\/01bfm9","display_name":"Shorts","object_s":"shorts","areis_s":"is","object_pl":"shorts","areis_pl":"are","ngram":"short"}
+{"class_id":"\/m\/06nrc","display_name":"Shotgun","object_s":"shotgun","areis_s":"is","object_pl":"shotguns","areis_pl":"are","ngram":"shotgun"}
+{"class_id":"\/m\/0ll1f78","display_name":"Shrimp","object_s":"shrimp","areis_s":"is","object_pl":"shrimps","areis_pl":"are","ngram":"shrimp"}
+{"class_id":"\/m\/0130jx","display_name":"Sink","object_s":"sink","areis_s":"is","object_pl":"sinks","areis_pl":"are","ngram":"sink"}
+{"class_id":"\/m\/06_fw","display_name":"Skateboard","object_s":"skateboard","areis_s":"is","object_pl":"skateboards","areis_pl":"are","ngram":"skateboard"}
+{"class_id":"\/m\/071p9","display_name":"Ski","object_s":"ski","areis_s":"is","object_pl":"skis","areis_pl":"are","ngram":"ski"}
+{"class_id":"\/m\/02wv6h6","display_name":"Skirt","object_s":"skirt","areis_s":"is","object_pl":"skirts","areis_pl":"are","ngram":"skirt"}
+{"class_id":"\/m\/016m2d","display_name":"Skull","object_s":"skull","areis_s":"is","object_pl":"skulls","areis_pl":"are","ngram":"skull"}
+{"class_id":"\/m\/0km7z","display_name":"Skunk","object_s":"skunk","areis_s":"is","object_pl":"skunks","areis_pl":"are","ngram":"skunk"}
+{"class_id":"\/m\/01bqvp","display_name":"Sky","object_s":"sky","areis_s":"is","object_pl":"sky","areis_pl":"is","ngram":"sky"}
+{"class_id":"\/m\/079cl","display_name":"Skyscraper","object_s":"skyscraper","areis_s":"is","object_pl":"skyscrapers","areis_pl":"are","ngram":"skyscraper"}
+{"class_id":"\/m\/06q40","display_name":"Smoke","object_s":"smoke","areis_s":"is","object_pl":"smoke","areis_pl":"is","ngram":"smoke"}
+{"class_id":"\/m\/0f9_l","display_name":"Snail","object_s":"snail","areis_s":"is","object_pl":"snails","areis_pl":"are","ngram":"snail"}
+{"class_id":"\/m\/078jl","display_name":"Snake","object_s":"snake","areis_s":"is","object_pl":"snakes","areis_pl":"are","ngram":"snake"}
+{"class_id":"\/m\/06_dn","display_name":"Snow","object_s":"snow","areis_s":"is","object_pl":"snow","areis_pl":"is","ngram":"snow"}
+{"class_id":"\/m\/06__v","display_name":"Snowboard","object_s":"snowboard","areis_s":"is","object_pl":"snowboards","areis_pl":"are","ngram":"snowboard"}
+{"class_id":"\/m\/0152hh","display_name":"Snowman","object_s":"snowman","areis_s":"is","object_pl":"snowmen","areis_pl":"are","ngram":"snowman"}
+{"class_id":"\/m\/01x3jk","display_name":"Snowmobile","object_s":"snowmobile","areis_s":"is","object_pl":"snowmobiles","areis_pl":"are","ngram":"snowmobile"}
+{"class_id":"\/m\/04vv5k","display_name":"Snowplow","object_s":"snowplow","areis_s":"is","object_pl":"snowplows","areis_pl":"are","ngram":"snowplow"}
+{"class_id":"\/m\/0c3mkw","display_name":"Soap dispenser","object_s":"soap dispenser","areis_s":"is","object_pl":"soap dispensers","areis_pl":"are","ngram":"soap dispenser"}
+{"class_id":"\/m\/01nq26","display_name":"Sock","object_s":"sock","areis_s":"is","object_pl":"socks","areis_pl":"are","ngram":"sock"}
+{"class_id":"\/m\/03m3pdh","display_name":"Sofa bed","object_s":"sofa bed","areis_s":"is","object_pl":"sofa beds","areis_pl":"are","ngram":"sofa bed"}
+{"class_id":"\/m\/09dv7","display_name":"Soil","object_s":"soil","areis_s":"is","object_pl":"soil","areis_pl":"is","ngram":"soil"}
+{"class_id":"\/m\/02jfl0","display_name":"Sombrero","object_s":"sombrero","areis_s":"is","object_pl":"sombreros","areis_pl":"are","ngram":"sombreros"}
+{"class_id":"\/m\/0h23m","display_name":"Sparrow","object_s":"sparrow","areis_s":"is","object_pl":"sparrows","areis_pl":"are","ngram":"sparrow"}
+{"class_id":"\/m\/02d1br","display_name":"Spatula","object_s":"spatula","areis_s":"is","object_pl":"spatulas","areis_pl":"are","ngram":"spatula"}
+{"class_id":"\/m\/09kmb","display_name":"Spider","object_s":"spider","areis_s":"is","object_pl":"spiders","areis_pl":"are","ngram":"spider"}
+{"class_id":"\/m\/016rh7","display_name":"Spinach","object_s":"spinach","areis_s":"is","object_pl":"spinach","areis_pl":"is","ngram":"spinach"}
+{"class_id":"\/m\/0cmx8","display_name":"Spoon","object_s":"spoon","areis_s":"is","object_pl":"spoons","areis_pl":"are","ngram":"spoon"}
+{"class_id":"\/m\/036knn","display_name":"Sprinkles","object_s":"sprinkle","areis_s":"is","object_pl":"sprinkles","areis_pl":"are","ngram":"sprinkle"}
+{"class_id":"\/m\/09gys","display_name":"Squid","object_s":"squid","areis_s":"is","object_pl":"squids","areis_pl":"are","ngram":"squid"}
+{"class_id":"\/m\/071qp","display_name":"Squirrel","object_s":"squirrel","areis_s":"is","object_pl":"squirrels","areis_pl":"are","ngram":"squirrel"}
+{"class_id":"\/m\/025fsf","display_name":"Stapler","object_s":"stapler","areis_s":"is","object_pl":"staplers","areis_pl":"are","ngram":"stapler"}
+{"class_id":"\/m\/01h8tj","display_name":"Starfish","object_s":"starfish","areis_s":"is","object_pl":"starfish","areis_pl":"are","ngram":"starfish"}
+{"class_id":"\/m\/03kt2w","display_name":"Stationary bicycle","object_s":"stationary bicycle","areis_s":"is","object_pl":"stationary bicycles","areis_pl":"are","ngram":"stationary bicycle"}
+{"class_id":"\/m\/06qqb","display_name":"Steel","object_s":"steel","areis_s":"is","object_pl":"steel","areis_pl":"is","ngram":"steel"}
+{"class_id":"\/m\/0fqt361","display_name":"Stool","object_s":"stool","areis_s":"is","object_pl":"stools","areis_pl":"are","ngram":"stool"}
+{"class_id":"\/m\/02pv19","display_name":"Stop sign","object_s":"stop sign","areis_s":"is","object_pl":"stop signs","areis_pl":"are","ngram":"stop sign"}
+{"class_id":"\/m\/07fbm7","display_name":"Strawberry","object_s":"strawberry","areis_s":"is","object_pl":"strawberries","areis_pl":"are","ngram":"strawberry"}
+{"class_id":"\/m\/033rq4","display_name":"Street light","object_s":"street light","areis_s":"is","object_pl":"street lights","areis_pl":"are","ngram":"street light"}
+{"class_id":"\/m\/04jph85","display_name":"Street sign","object_s":"street sign","areis_s":"is","object_pl":"street signs","areis_pl":"are","ngram":"street sign"}
+{"class_id":"\/m\/074d1","display_name":"Submarine","object_s":"submarine","areis_s":"is","object_pl":"submarines","areis_pl":"are","ngram":"submarine"}
+{"class_id":"\/m\/06x4c","display_name":"Sugar","object_s":"sugar","areis_s":"is","object_pl":"sugar","areis_pl":"is","ngram":"sugar"}
+{"class_id":"\/m\/01xyhv","display_name":"Suit","object_s":"suit","areis_s":"is","object_pl":"suits","areis_pl":"are","ngram":"suit"}
+{"class_id":"\/m\/01s55n","display_name":"Suitcase","object_s":"suitcase","areis_s":"is","object_pl":"suitcases","areis_pl":"are","ngram":"suitcase"}
+{"class_id":"\/m\/02wbtzl","display_name":"Sun hat","object_s":"sun hat","areis_s":"is","object_pl":"sun hats","areis_pl":"are","ngram":"sun hat"}
+{"class_id":"\/m\/017ftj","display_name":"Sunglasses","object_s":null,"areis_s":null,"object_pl":"sunglasses","areis_pl":"are","ngram":"sunglass"}
+{"class_id":"\/m\/019w40","display_name":"Surfboard","object_s":"surfboard","areis_s":"is","object_pl":"surfboards","areis_pl":"are","ngram":"surfboard"}
+{"class_id":"\/m\/07030","display_name":"Sushi","object_s":"sushi","areis_s":"is","object_pl":"sushi","areis_pl":"is","ngram":"sushi"}
+{"class_id":"\/m\/0dftk","display_name":"Swan","object_s":"swan","areis_s":"is","object_pl":"swans","areis_pl":"are","ngram":"swan"}
+{"class_id":"\/m\/0b_rs","display_name":"Swimming pool","object_s":"swimming pool","areis_s":"is","object_pl":"swimming pools","areis_pl":"are","ngram":"swimming pool"}
+{"class_id":"\/m\/06y5r","display_name":"Sword","object_s":"sword","areis_s":"is","object_pl":"swords","areis_pl":"are","ngram":"sword"}
+{"class_id":"\/m\/04bcr3","display_name":"Table","object_s":"table","areis_s":"is","object_pl":"tables","areis_pl":"are","ngram":"table"}
+{"class_id":"\/m\/0bh9flk","display_name":"Tablet computer","object_s":"tablet computer","areis_s":"is","object_pl":"tablet computers","areis_pl":"are","ngram":"tablet computer"}
+{"class_id":"\/m\/07crc","display_name":"Taco","object_s":"taco","areis_s":"is","object_pl":"tacos","areis_pl":"are","ngram":"taco"}
+{"class_id":"\/m\/01jy1_","display_name":"Tangerine","object_s":"tangerine","areis_s":"is","object_pl":"tangerines","areis_pl":"are","ngram":"tangerine"}
+{"class_id":"\/m\/07cmd","display_name":"Tank","object_s":"tank","areis_s":"is","object_pl":"tanks","areis_pl":"are","ngram":"tank"}
+{"class_id":"\/m\/0pg52","display_name":"Taxi","object_s":"taxi","areis_s":"is","object_pl":"taxis","areis_pl":"are","ngram":"taxis"}
+{"class_id":"\/m\/07clx","display_name":"Tea","object_s":"tea","areis_s":"is","object_pl":"tea","areis_pl":"is","ngram":"tea"}
+{"class_id":"\/m\/01fh4r","display_name":"Teapot","object_s":"teapot","areis_s":"is","object_pl":"teapots","areis_pl":"are","ngram":"teapot"}
+{"class_id":"\/m\/0kmg4","display_name":"Teddy bear","object_s":"teddy bear","areis_s":"is","object_pl":"teddy bears","areis_pl":"are","ngram":"teddy bear"}
+{"class_id":"\/m\/07cx4","display_name":"Telephone","object_s":"telephone","areis_s":"is","object_pl":"telephones","areis_pl":"are","ngram":"telephone"}
+{"class_id":"\/m\/07c52","display_name":"Television","object_s":"television","areis_s":"is","object_pl":"televisions","areis_pl":"are","ngram":"television"}
+{"class_id":"\/m\/05ctyq","display_name":"Tennis ball","object_s":"tennis ball","areis_s":"is","object_pl":"tennis balls","areis_pl":"are","ngram":"tennis ball"}
+{"class_id":"\/m\/0h8my_4","display_name":"Tennis racket","object_s":"tennis racket","areis_s":"is","object_pl":"tennis rackets","areis_pl":"are","ngram":"tennis racket"}
+{"class_id":"\/m\/01j61q","display_name":"Tent","object_s":"tent","areis_s":"is","object_pl":"tents","areis_pl":"are","ngram":"tent"}
+{"class_id":"\/m\/01krhy","display_name":"Tiara","object_s":"tiara","areis_s":"is","object_pl":"tiaras","areis_pl":"are","ngram":"tiara"}
+{"class_id":"\/m\/01rkbr","display_name":"Tie","object_s":"tie","areis_s":"is","object_pl":"ties","areis_pl":"are","ngram":"tie"}
+{"class_id":"\/m\/07dm6","display_name":"Tiger","object_s":"tiger","areis_s":"is","object_pl":"tigers","areis_pl":"are","ngram":"tiger"}
+{"class_id":"\/m\/02jnhm","display_name":"Tin can","object_s":"tin can","areis_s":"is","object_pl":"tin cans","areis_pl":"are","ngram":"tin can"}
+{"class_id":"\/m\/0h9mv","display_name":"Tire","object_s":"tire","areis_s":"is","object_pl":"tires","areis_pl":"are","ngram":"tire"}
+{"class_id":"\/m\/01k6s3","display_name":"Toaster","object_s":"toaster","areis_s":"is","object_pl":"toasters","areis_pl":"are","ngram":"toaster"}
+{"class_id":"\/m\/09g1w","display_name":"Toilet","object_s":"toilet","areis_s":"is","object_pl":"toilets","areis_pl":"are","ngram":"toilet"}
+{"class_id":"\/m\/09gtd","display_name":"Toilet paper","object_s":"toilet paper","areis_s":"is","object_pl":"toilet paper","areis_pl":"is","ngram":"toilet paper"}
+{"class_id":"\/m\/07j87","display_name":"Tomato","object_s":"tomato","areis_s":"is","object_pl":"tomatoes","areis_pl":"are","ngram":"tomato"}
+{"class_id":"\/m\/0fjkt","display_name":"Tongue","object_s":"tongue","areis_s":"is","object_pl":"tongues","areis_pl":"are","ngram":"tongue"}
+{"class_id":"\/m\/0cnxs6x","display_name":"Tooth","object_s":"tooth","areis_s":"is","object_pl":"teeth","areis_pl":"are","ngram":"tooth"}
+{"class_id":"\/m\/012xff","display_name":"Toothbrush","object_s":"toothbrush","areis_s":"is","object_pl":"toothbrushes","areis_pl":"are","ngram":"toothbrush"}
+{"class_id":"\/m\/011k07","display_name":"Tortoise","object_s":"tortoise","areis_s":"is","object_pl":"tortoises","areis_pl":"are","ngram":"tortoise"}
+{"class_id":"\/m\/0162_1","display_name":"Towel","object_s":"towel","areis_s":"is","object_pl":"towels","areis_pl":"are","ngram":"towel"}
+{"class_id":"\/m\/01fdzj","display_name":"Tower","object_s":"tower","areis_s":"is","object_pl":"towers","areis_pl":"are","ngram":"tower"}
+{"class_id":"\/m\/0138tl","display_name":"Toy","object_s":"toy","areis_s":"is","object_pl":"toys","areis_pl":"are","ngram":"toy"}
+{"class_id":"\/m\/015qff","display_name":"Traffic light","object_s":"traffic light","areis_s":"is","object_pl":"traffic lights","areis_pl":"are","ngram":"traffic light"}
+{"class_id":"\/m\/01mqdt","display_name":"Traffic sign","object_s":"traffic sign","areis_s":"is","object_pl":"traffic signs","areis_pl":"are","ngram":"traffic sign"}
+{"class_id":"\/m\/07jdr","display_name":"Train","object_s":"train","areis_s":"is","object_pl":"trains","areis_pl":"are","ngram":"train"}
+{"class_id":"\/m\/030610","display_name":"Treadmill","object_s":"treadmill","areis_s":"is","object_pl":"treadmills","areis_pl":"are","ngram":"treadmill"}
+{"class_id":"\/m\/07j7r","display_name":"Tree","object_s":"tree","areis_s":"is","object_pl":"trees","areis_pl":"are","ngram":"tree"}
+{"class_id":"\/m\/02wg_p","display_name":"Tree house","object_s":"tree house","areis_s":"is","object_pl":"tree houses","areis_pl":"are","ngram":"tree house"}
+{"class_id":"\/m\/073bxn","display_name":"Tripod","object_s":"tripod","areis_s":"is","object_pl":"tripods","areis_pl":"are","ngram":"tripod"}
+{"class_id":"\/m\/07mhn","display_name":"Trousers","object_s":null,"areis_s":null,"object_pl":"trousers","areis_pl":"are","ngram":"trouser"}
+{"class_id":"\/m\/07r04","display_name":"Truck","object_s":"truck","areis_s":"is","object_pl":"trucks","areis_pl":"are","ngram":"truck"}
+{"class_id":"\/m\/07gql","display_name":"Trumpet","object_s":"trumpet","areis_s":"is","object_pl":"trumpets","areis_pl":"are","ngram":"trumpet"}
+{"class_id":"\/m\/0k362","display_name":"Tulip","object_s":"tulip","areis_s":"is","object_pl":"tulips","areis_pl":"are","ngram":"tulip"}
+{"class_id":"\/m\/0jly1","display_name":"Turkey","object_s":"turkey","areis_s":"is","object_pl":"turkeys","areis_pl":"are","ngram":"turkey"}
+{"class_id":"\/m\/09dzg","display_name":"Turtle","object_s":"turtle","areis_s":"is","object_pl":"turtles","areis_pl":"are","ngram":"turtle"}
+{"class_id":"\/m\/0280yrc","display_name":"Tuxedo","object_s":"tuxedo","areis_s":"is","object_pl":"tuxedos","areis_pl":"are","ngram":"tuxedo"}
+{"class_id":"\/m\/0hnnb","display_name":"Umbrella","object_s":"umbrella","areis_s":"is","object_pl":"umbrellas","areis_pl":"are","ngram":"umbrella"}
+{"class_id":"\/m\/0f6nr","display_name":"Unicycle","object_s":"unicycle","areis_s":"is","object_pl":"unicycles","areis_pl":"are","ngram":"unicycle"}
+{"class_id":"\/m\/0h2r6","display_name":"Van","object_s":"van","areis_s":"is","object_pl":"vans","areis_pl":"are","ngram":"van"}
+{"class_id":"\/m\/02s195","display_name":"Vase","object_s":"vase","areis_s":"is","object_pl":"vases","areis_pl":"are","ngram":"vase"}
+{"class_id":"\/m\/0f4s2w","display_name":"Vegetable","object_s":"vegetable","areis_s":"is","object_pl":"vegetables","areis_pl":"are","ngram":"vegetable"}
+{"class_id":"\/m\/07yv9","display_name":"Vehicle","object_s":"vehicle","areis_s":"is","object_pl":"vehicles","areis_pl":"are","ngram":"vehicle"}
+{"class_id":"\/m\/07y_7","display_name":"Violin","object_s":"violin","areis_s":"is","object_pl":"violins","areis_pl":"are","ngram":"violin"}
+{"class_id":"\/m\/02rgn06","display_name":"Volleyball (Ball)","object_s":"volleyball","areis_s":"is","object_pl":"volleyballs","areis_pl":"are","ngram":"volleyball"}
+{"class_id":"\/m\/01dwsz","display_name":"Waffle","object_s":"waffle","areis_s":"is","object_pl":"waffles","areis_pl":"are","ngram":"waffle"}
+{"class_id":"\/m\/0h8mzrc","display_name":"Wall clock","object_s":"wall clock","areis_s":"is","object_pl":"wall clocks","areis_pl":"are","ngram":"wall clock"}
+{"class_id":"\/m\/0174k2","display_name":"Washing machine","object_s":"washing machine","areis_s":"is","object_pl":"washing machines","areis_pl":"are","ngram":"washing machine"}
+{"class_id":"\/m\/0gjkl","display_name":"Watch","object_s":"watch","areis_s":"is","object_pl":"watches","areis_pl":"are","ngram":"watch"}
+{"class_id":"\/m\/0838f","display_name":"Water","object_s":"water","areis_s":"is","object_pl":"water","areis_pl":"is","ngram":"water"}
+{"class_id":"\/m\/0kpqd","display_name":"Watermelon","object_s":"watermelon","areis_s":"is","object_pl":"watermelons","areis_pl":"are","ngram":"watermelon"}
+{"class_id":"\/m\/02c66t","display_name":"Wedding dress","object_s":"wedding dress","areis_s":"is","object_pl":"wedding dresses","areis_pl":"are","ngram":"wedding dress"}
+{"class_id":"\/m\/084zz","display_name":"Whale","object_s":"whale","areis_s":"is","object_pl":"whales","areis_pl":"are","ngram":"whale"}
+{"class_id":"\/m\/083wq","display_name":"Wheel","object_s":"wheel","areis_s":"is","object_pl":"wheels","areis_pl":"are","ngram":"wheel"}
+{"class_id":"\/m\/0qmmr","display_name":"Wheelchair","object_s":"wheelchair","areis_s":"is","object_pl":"wheelchairs","areis_pl":"are","ngram":"wheelchair"}
+{"class_id":"\/m\/02vwcm","display_name":"Whisk","object_s":"whisk","areis_s":"is","object_pl":"whisks","areis_pl":"are","ngram":"whisk"}
+{"class_id":"\/m\/02d9qx","display_name":"Whiteboard","object_s":"whiteboard","areis_s":"is","object_pl":"whiteboards","areis_pl":"are","ngram":"whiteboard"}
+{"class_id":"\/m\/0mw_6","display_name":"Willow","object_s":"willow","areis_s":"is","object_pl":"willows","areis_pl":"are","ngram":"willow"}
+{"class_id":"\/m\/031b6r","display_name":"Window blind","object_s":"window blind","areis_s":"is","object_pl":"window blinds","areis_pl":"are","ngram":"window blind"}
+{"class_id":"\/m\/081qc","display_name":"Wine","object_s":"wine","areis_s":"is","object_pl":"wine","areis_pl":"is","ngram":"wine"}
+{"class_id":"\/m\/083kv","display_name":"Wire","object_s":"wire","areis_s":"is","object_pl":"wires","areis_pl":"are","ngram":"wire"}
+{"class_id":"\/m\/084sq","display_name":"Wolf","object_s":"wolf","areis_s":"is","object_pl":"wolves","areis_pl":"are","ngram":"wolf"}
+{"class_id":"\/m\/083vt","display_name":"Wood","object_s":"wood","areis_s":"is","object_pl":"wood","areis_pl":"is","ngram":"wood"}
+{"class_id":"\/m\/01dy8n","display_name":"Woodpecker","object_s":"woodpecker","areis_s":"is","object_pl":"woodpeckers","areis_pl":"are","ngram":"woodpecker"}
+{"class_id":"\/m\/084hf","display_name":"Worm","object_s":"worm","areis_s":"is","object_pl":"worms","areis_pl":"are","ngram":"worm"}
+{"class_id":"\/m\/01j5ks","display_name":"Wrench","object_s":"wrench","areis_s":"is","object_pl":"wrenches","areis_pl":"are","ngram":"wrench"}
+{"class_id":"\/m\/0898b","display_name":"Zebra","object_s":"zebra","areis_s":"is","object_pl":"zebras","areis_pl":"are","ngram":"zebra"}
+{"class_id":"\/m\/027pcv","display_name":"Zucchini","object_s":"zucchini","areis_s":"is","object_pl":"zucchinis","areis_pl":"are","ngram":"zucchini"}
