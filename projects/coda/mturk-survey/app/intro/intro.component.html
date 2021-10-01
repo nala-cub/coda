@@ -1,0 +1,84 @@
+<div fxLayout="row wrap" fxLayoutAlign="space-around center" gdGap="1em">
+  <mat-card fxfill>
+    <mat-card-header>
+      <mat-card-title>Welcome to Object Color Labeling!</mat-card-title>
+      <div fxFlex></div>
+      <span class="mr-1"> Estimated time: 3-5 minutes</span>
+      <mat-icon>timer</mat-icon>
+    </mat-card-header>
+    <mat-card-content>
+      <div>
+        <p>
+          Before we can get started, we'll show you how the task works and point
+          out a few notable details. In this task, you'll be presented with a
+          series of {{ numObjects }} objects, and asked to rate the frequency
+          that the object is that color. You are allowed to skip any objects
+          that you're not familiar with, at which point you'll be presented with
+          a new object. Note that skipped objects are not counted toward your
+          HIT completion.
+        </p>
+        <p>
+          For each of the listed colors, you'll use sliders to indicate how
+          frequently the object is that color. Use a scale of 0-5 in your
+          ratings where 0 corresponds to sometimes and 5 corresponds to almost
+          always. Note that extremely rare or extraordinary events correspond to
+          0 on this scale. All responses will be normalized as a distribution
+          over the selected colors. For example, a rating of 5/5 for 2 colors is
+          identical to a rating of 1/5 for both colors (both will be 50/50).
+        </p>
+      </div>
+    </mat-card-content>
+  </mat-card>
+  <!-- sample UI -->
+  <mat-card fxfill>
+    <mat-card-header>
+      <mat-card-title>Sample HIT Interface</mat-card-title>
+    </mat-card-header>
+    <kln-hit-component
+      [tourCompleted]="true"
+      [isPreview]="true"
+      [showDetailed]="false"
+    ></kln-hit-component>
+    <mat-card-content> </mat-card-content>
+  </mat-card>
+  <kln-consent-agreement fxfill></kln-consent-agreement>
+
+  <!-- actions  -->
+  <mat-card fxfill>
+    <mat-card-header>
+      <mat-card-title>Start HIT</mat-card-title>
+      <ng-container *ngIf="hs.errorMsg">
+        <div fxFlex></div>
+        <span class="mr-1">{{ hs.errorMsg }}</span>
+        <mat-icon color="warn">error</mat-icon>
+      </ng-container>
+    </mat-card-header>
+    <ng-container *ngIf="!hs.loadingHit; else loading">
+      <mat-card-content>
+        <div>
+          <p>
+            Detailed instructions and acceptance criteria are provided below and
+            will also be available once you start the HIT. Feel free to review
+            them now or click the link below to get started.
+          </p>
+        </div>
+      </mat-card-content>
+      <mat-card-actions>
+        <a
+          mat-raised-button
+          color="primary"
+          (click)="startHit()"
+          data-cy="start"
+          >Start HIT</a
+        >
+      </mat-card-actions>
+    </ng-container>
+    <ng-template #loading>
+      <div class="objloading">
+        <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+      </div>
+    </ng-template>
+  </mat-card>
+
+  <kln-acceptance-criteria fxfill></kln-acceptance-criteria>
+</div>

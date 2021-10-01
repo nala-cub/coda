@@ -1,0 +1,66 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title>Acceptance Criteria </mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    We understand that objects can be many colors, some of which we may have
+    never seen before. All responses will be reviewed manually, and we will do
+    our due diligence to make sure we don't reject your work just because we
+    weren't aware of your insightful inputs. We expect that you will be honest
+    in your answers, and while there are no right answers, there are certainly
+    <strong>wrong</strong> answers. <br /><br />
+    As an example, "Grass" is green. If you were assigned this object, we'd
+    expect green to be the highest-ranking color in your annotation. While grass
+    can be brown or yellow, these are far less common and your annotation should
+    reflect that. However, grass is very rarely blue, red, pink, purple, etc. As
+    such, if your response has those colors, we might reject your assignment.
+    <br /><br />
+    An example annotation for grass would have green as 5/5, yellow 1/5, and
+    brown 1/5. Use the entire range of the sliders to express subtle
+    differences. Sure, certain objects can be any color, but not likely all at
+    the same frequency. This is the type of subtlety we're looking for.
+    <br /><br />
+    <strong>There are random control objects in every HIT.</strong> Each HIT has
+    at least one "control object". These are objects that have known color
+    distributions, and if your answer disagrees with them significantly, we
+    might reject your assignment. <br /><br />
+    As a general guideline,
+    <strong
+      >most of the objects have a small subset of the possible colors</strong
+    >. Very few objects should have all colors included.
+    <strong>Select as few colors as possible.</strong> They should cover a large
+    majority of occurrences (e.g. 90%). Rare or extraordinary instances
+    correspond to 0 on this scale. <br /><br />
+    Note that for some objects, such as "paintings", selecting all colors or a
+    wide distribution of colors would be appropiate.
+    <br /><br />
+    Here are some acceptable and unacceptable situations. Remember, you are free
+    to skip an object at any time if you don't know it, but making something up
+    or guessing just to label the object will result in a rejected HIT.
+    <mat-list>
+      <div mat-subheader>Acceptable</div>
+      <mat-list-item *ngFor="let item of acceptable">
+        <mat-icon mat-list-icon style="color: #28a745">thumb_up</mat-icon>
+        <div class="kln-wrap-item">
+          <span>{{ item.short }}</span>
+        </div>
+      </mat-list-item>
+      <mat-divider></mat-divider>
+      <div mat-subheader>Unacceptable</div>
+      <mat-list-item
+        *ngFor="let item of unacceptable"
+        class="mat-truncate-line"
+      >
+        <mat-icon mat-list-icon color="warn">thumb_down</mat-icon>
+        <div class="kln-wrap-item">
+          <span>{{ item.short }}</span>
+        </div>
+      </mat-list-item>
+    </mat-list>
+    <br />
+    <strong>This is not meant to be a difficult task.</strong>
+    <br />
+    The time limit is 1 hour, but you'll likely be able to breeze through in
+    about 3-5 minutes.
+  </mat-card-content>
+</mat-card>

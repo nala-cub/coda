@@ -1,0 +1,92 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title
+      >Permission to Take Part in a Human Research Study</mat-card-title
+    >
+  </mat-card-header>
+  <mat-card-content>
+    <div>
+      <dl>
+        <dd>
+          <strong>Title of research study:</strong> Comparing the Object-Color
+          Associations of Humans and Neural Network Models for Natural Language
+          Processing
+        </dd>
+        <dd><strong>IRB Protocol Number:</strong> 21-0177</dd>
+        <dd><strong>Investigator:</strong> Katharina Kann</dd>
+        <dt>Purpose of the Study</dt>
+        <dd>
+          The goal of this study is to explore which colors humans and neural
+          network models for natural language processing (NLP) associate with
+          different objects. In particular, we want to explore our hypothesis
+          that the models’ associations might differ drastically from those of
+          humans.
+        </dd>
+        <dt>Explanation of Procedures</dt>
+        <dd>
+          You will be shown an object (e.g., “apple”) and asked which color(s)
+          you associate with this object. Please enter your answer into the form
+          provided on Amazon Mechanical Turk. We will not ask for any personal
+          information. (The availability of this HIT on MTurk is, however,
+          restricted to workers in certain countries, such that we get indirect
+          information about your location).
+        </dd>
+        <dt>Voluntary Participation and Withdrawal</dt>
+        <dd>
+          Whether or not you take part in this research is your choice. You can
+          leave the research at any time and it will not be held against you. If
+          you don’t complete a HIT, you will not be paid for it.
+        </dd>
+        <dt>Confidentiality</dt>
+        <dd>
+          Information obtained about you for this study will be kept
+          confidential to the extent allowed by law. Research information that
+          identifies you may be shared with the University of Colorado Boulder
+          Institutional Review Board (IRB) and others who are responsible for
+          ensuring compliance with laws and regulations related to research,
+          including people on behalf of the Office for Human Research
+          Protections. The information from this research may be published for
+          scientific purposes; however, your identity will not be given out.
+        </dd>
+        <dt>Payment for Participation</dt>
+        <dd>
+          If you agree to take part in this research study, we will pay you
+          {{ hs.perHitPayment }} per HIT for your time and effort. Payments will
+          be made over Amazon Mechanical Turk. It is important to know that
+          payment for participation is taxable income.
+        </dd>
+        <dt>Questions</dt>
+        <dd>
+          If you have questions, concerns, or complaints, or think the research
+          has hurt you, talk to the research team at
+          <a href="mailto:xxx@example.edu"
+            >xxx@example.com</a
+          >.
+        </dd>
+        <dd>
+          This research has been reviewed and approved by an IRB. You may talk
+          to them at <a href="tel:XXX-XXX-XXXX">(XXX) XXX-XXXX</a> or
+          <a href="mailto:email@example.edu">email@example.edu</a> if:
+          <ul>
+            <li>
+              Your questions, concerns, or complaints are not being answered by
+              the research team.
+            </li>
+            <li>You cannot reach the research team.</li>
+            <li>You want to talk to someone besides the research team.</li>
+            <li>You have questions about your rights as a research subject.</li>
+            <li>
+              You want to get information or provide input about this research.
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </div>
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-raised-button (click)="hs.consentDoc()">
+      <mat-icon>file_download</mat-icon>
+      <span> Obtain a PDF of this Consent Agreement</span>
+    </button>
+  </mat-card-actions>
+</mat-card>

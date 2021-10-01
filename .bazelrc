@@ -1,0 +1,85 @@
+# Import default configuration for building JAX.
+import %workspace%/tools/jax.bazelrc
+################################################################################
+# Nest Bazel symlinks under _/bazel. Note that this will still create a
+# bazel-out symlink in your project directory
+build --symlink_prefix=_bazel/
+
+# Testing default: show errors
+test --test_output=errors
+
+# Testing debug: stream tests
+test:debug --test_output=streamed --test_strategy=exclusive --test_timeout=9999 --nocache_test_results
+
+# Flag to enable remote config
+common --experimental_repo_remote_exec
+
+# Python rules
+build --incompatible_default_to_explicit_init_py
+
+# The following flags are set to test use of new features for python toolchains
+# These flags will only work with Bazel 0.25.0 or above.
+build --incompatible_use_python_toolchains
+
+# enable change detection to avoid poising the cache
+build --experimental_guard_against_concurrent_changes=true
+
+# Use the in-build python config repo on linux systems
+common:linux --repo_env=TF_PYTHON_CONFIG_REPO="@research_config_python"
+common:linux --repo_env=TF_LOCAL_PYTHON_CONFIG_REPO="@research_config_python"
+# CUDA Compute Capabilities:
+# 6.0 - Tesla P100
+# 7.0 - Tesla V100
+# 7.5 - Titan RTX
+# 8.0 - A100
+build:cuda --action_env=TF_CUDA_COMPUTE_CAPABILITIES="6.0,7.0,7.5,8.0"
+
+
+################
+# remote caching
+################
+# Read-only remote cache
+build:remote_cache --remote_cache=https://storage.googleapis.com/kln-lab-rbe
+build:remote_cache --google_default_credentials=true
+
+build:remote_cache_read_only --config=remote_cache
+build:remote_cache_read_only --remote_upload_local_results=false
+
+##############
+# buildkite ci
+##############
+# logging config
+build:buildkite --show_progress_rate_limit=5
+build:buildkite --curses=yes --color=yes
+
+# keep going + give more verbose errors
+build:buildkite --keep_going --verbose_failures
+
+# Config options for jax
+build:buildkite --config=avx_posix --config=mkl_open_source_only
+
+# Remote cache is read only to leverage internal builds.
+build:buildkite --config=remote_cache_read_only
+
+################################################################################
+# reference configurations
+################################################################################
+# @snowhite: Single-gpu workstation
+build:snowhite --config=avx_posix --config=mkl_open_source_only
+build:snowhite --config=cuda --config=remote_cache_read_only
+
+build:snowhite --strategy=Genrule=standalone
+
+build:snowhite --action_env=TF_CUDA_VERSION="11"
+
+# Mismatched GPUs, we just use 1.
+test:snowhite --test_env=CUDA_VISIBLE_DEVICES="0"
+
+# 32c/64t with 64gb ram can get OOM really quick, so set this way lower.
+build:snowhite  --local_ram_resources=8192
+
+################
+# user config
+################
+
+try-import %workspace%/user.bazelrc

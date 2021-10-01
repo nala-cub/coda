@@ -1,0 +1,194 @@
+<ng-container *ngIf="task$ | async; let task; else: loading">
+  <div
+    gdAreas="concept table | short table | moreinfo table | long table | long . | ac ac | consent consent"
+    gdGap="1em"
+    gdColumns="1fr 2fr"
+    gdAreas.xs="concept | short | table | moreinfo | long | ac | consent"
+    gdColumns.xs="1fr"
+    gdAreas.lt-lg="concept table | short table | moreinfo table | . table | long long | ac ac | consent consent"
+  >
+    <mat-card id="concept-card" gdArea="concept">
+      <mat-card-header>
+        <mat-card-title>Object</mat-card-title>
+        <div fxFlex></div>
+        <span>{{ completeCount }} / {{ numTasks }}</span>
+      </mat-card-header>
+      <mat-card-content id="concept-name">
+        <div class="task-concept">
+          <h2>{{ task.source }}</h2>
+        </div>
+        <ng-template #tloading>
+          <div fxFlex></div>
+          <mat-spinner [diameter]="23"></mat-spinner>
+        </ng-template>
+      </mat-card-content>
+    </mat-card>
+
+    <mat-card id="short-instructions" gdArea="short">
+      <mat-card-header>
+        <mat-card-title>Instructions</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        For each of the listed colors, use the sliders below to indicate how
+        frequently the object is that color.<br />
+        <strong>Use a relative scale.</strong> 5/5 is 5 times more likely than
+        1/5.<br />
+        <strong>Select as few colors as possible.</strong> They should cover a
+        large majority of occurrences (e.g. 90%). Rare or extraordinary
+        instances correspond to 0 on this scale.
+      </mat-card-content>
+    </mat-card>
+
+    <mat-card gdArea="moreinfo" id="more-info">
+      <mat-card-header>
+        <mat-card-title>More Info</mat-card-title>
+      </mat-card-header>
+      <button (click)="intro.startTour()" mat-button>Show Task Demo</button>
+      <button (click)="showDetailed = !showDetailed" mat-button>
+        {{ showDetailed ? "Hide" : "Show" }} Detailed Instructions
+      </button>
+    </mat-card>
+
+    <ng-container *ngIf="showDetailed">
+      <mat-card gdArea="long">
+        <mat-card-header>
+          <mat-card-title>Long Instructions</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <div>
+            <p>
+              For each of the listed colors, use the sliders below to indicate
+              how frequently the object is that color. Use a scale of 0-5 in
+              your ratings where 0 corresponds to sometimes and 5 corresponds to
+              almost always.
+            </p>
+            <p>
+              Note that extremely rare or extraordinary events correspond to 0
+              on this scale.
+            </p>
+            <p>
+              All responses will be normalized as a distribution over the
+              selected colors. For example, a rating of 5/5 for 2 colors is
+              identical to a rating of 2/5 for both colors.
+            </p>
+          </div>
+        </mat-card-content>
+      </mat-card>
+      <kln-acceptance-criteria gdArea="ac"></kln-acceptance-criteria>
+      <kln-consent-agreement gdArea="consent"></kln-consent-agreement>
+    </ng-container>
+
+    <mat-card gdArea="table" fxFill>
+      <mat-card-content>
+        <kln-colortable-slide id="colortable"></kln-colortable-slide>
+      </mat-card-content>
+      <mat-card-actions id="submitbox">
+        <div
+          fxLayout="row"
+          fxLayoutAlign="space-between center"
+          fxLayoutGap
+          fxFill
+        >
+          <button
+            mat-raised-button
+            color="basic"
+            aria-label="Select All"
+            id="selectall-btn"
+            (click)="table.selectAll(allVal)"
+            fxHide.lt-md
+          >
+            Select All
+          </button>
+          <button
+            mat-raised-button
+            color="basic"
+            aria-label="Clear"
+            id="clear-btn"
+            (click)="table.clearRatings()"
+            fxHide.lt-md
+            [disabled]="!(table.dataSource.validRating$ | async)"
+          >
+            Clear Ratings
+          </button>
+          <div fxFlex></div>
+          <button
+            mat-raised-button
+            color="warn"
+            aria-label="Skip Object"
+            (click)="skipTask()"
+          >
+            Skip Object
+          </button>
+          <button
+            mat-raised-button
+            color="primary"
+            aria-label="Submit"
+            id="submit-btn"
+            [disabled]="!(table.dataSource.validRating$ | async)"
+            (click)="submitTask()"
+          >
+            Submit
+          </button>
+        </div>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</ng-container>
+
+<!-- loading + completion -->
+<ng-template #loading>
+  <ng-container *ngIf="hit$ | async; let hit; else: objloading">
+    <div fxLayout="row" fxLayoutAlign="space-evenly start">
+      <div fxFlex="60" [ngSwitch]="hit.status">
+        <mat-card *ngSwitchCase="'complete'">
+          <mat-card-header>
+            <mat-card-title>You seem to be done, awesome!</mat-card-title>
+            <div fxFlex></div>
+            <mat-spinner [diameter]="23"></mat-spinner>
+          </mat-card-header>
+          <mat-card-content>
+            Please give us a moment to refresh the database and count the
+            objects. If all is well, you'll be directed back to AWS momentarily.
+            Please don't refresh the page.
+          </mat-card-content>
+        </mat-card>
+        <mat-card *ngSwitchCase="'blocked'">
+          <mat-card-header>
+            <mat-card-title
+              >It seems we've ran out of tasks for you.</mat-card-title
+            >
+            <div fxFlex></div>
+            <mat-spinner [diameter]="23"></mat-spinner>
+          </mat-card-header>
+          <mat-card-content>
+            Please give us a moment to refresh the database and we'll try to
+            locate any objects you haven't labeled yet.
+          </mat-card-content>
+        </mat-card>
+        <mat-card *ngSwitchCase="'expired'">
+          <mat-card-header>
+            <mat-card-title
+              >It seems this HIT has expired due to inactivity.</mat-card-title
+            >
+            <div fxFlex></div>
+            <mat-spinner [diameter]="23"></mat-spinner>
+          </mat-card-header>
+          <mat-card-content>
+            Please let us know if you think this a mistake.
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+  </ng-container>
+  <ng-template #objloading>
+    <div class="objloading">
+      <p>Loading&hellip;</p>
+      <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+    </div>
+  </ng-template>
+</ng-template>
+<kln-mturk-form
+  *ngIf="hs.submitUrl$ | async as submitUrl"
+  [postExternalURl]="submitUrl"
+>
+</kln-mturk-form>

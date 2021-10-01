@@ -1,0 +1,27 @@
+diff --git a/third_party/py/python_configure.bzl b/third_party/py/python_configure.bzl
+index 2f75262ea9f..9c12e2edbaa 100644
+--- a/third_party/py/python_configure.bzl
++++ b/third_party/py/python_configure.bzl
+@@ -263,6 +263,11 @@ def _python_autoconf_impl(repository_ctx):
+             repository_ctx,
+             get_host_environ(repository_ctx, TF_PYTHON_CONFIG_REPO),
+         )
++    elif get_host_environ(repository_ctx, "TF_LOCAL_PYTHON_CONFIG_REPO") != None:
++        _create_remote_python_repository(
++            repository_ctx,
++            get_host_environ(repository_ctx, "TF_LOCAL_PYTHON_CONFIG_REPO"),
++        )
+     else:
+         _create_local_python_repository(repository_ctx)
+ 
+@@ -273,8 +278,8 @@ _ENVIRONS = [
+ ]
+ 
+ local_python_configure = repository_rule(
+-    implementation = _create_local_python_repository,
+-    environ = _ENVIRONS,
++    implementation = _python_autoconf_impl,
++    environ = _ENVIRONS + ["TF_LOCAL_PYTHON_CONFIG_REPO"],
+     attrs = {
+         "environ": attr.string_dict(),
+         "platform_constraint": attr.string(),

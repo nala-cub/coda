@@ -1,0 +1,25 @@
+templates:
+  - name: clip-imagenet
+    templates:
+      - a photo of the hard to see {object_s}.
+      - a photo of hard to see {object_pl}.
+      - itap of many {object_pl}.
+      - itap of some {object_pl}.
+      - a photo of a large {object_s}.
+      - itap of my {object_s}.
+      - a pixelated photo of {object_pl}.
+      - a pixelated photo of {a:object_s}.
+      - a jpeg corrupted photo of {a:object_s}.
+      - the cartoon {object_s}.
+  - name: text-masked
+    templates:
+      - Most {object_areis_pl} [MASK].
+      - Everyone knows that most {object_areis_pl} [MASK].
+      - Everyone knows that {object_areis_pl} [MASK].
+      - Commonly {object_areis_pl} [MASK].
+      - All {object_areis_pl} [MASK].
+      - It is known that {object_areis_pl} [MASK].
+      - It's known that {object_areis_pl} [MASK].
+      - It is known that most {object_areis_pl} [MASK].
+      - It's known that most {object_areis_pl} [MASK].
+      - This {object_areis_s} [MASK].

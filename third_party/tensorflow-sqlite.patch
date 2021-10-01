@@ -1,0 +1,13 @@
+diff --git a/third_party/sqlite.BUILD b/third_party/sqlite.BUILD
+index 58c5f3f0c8f..eedfff42a9d 100644
+--- a/third_party/sqlite.BUILD
++++ b/third_party/sqlite.BUILD
+@@ -43,7 +43,7 @@ cc_library(
+         # This gets rid of the bloat of deprecated functionality. It
+         # needs to be listed here instead of copts because it's actually
+         # referenced in the sqlite3.h file.
+-        "SQLITE_OMIT_DEPRECATED",
++        # "SQLITE_OMIT_DEPRECATED",
+     ],
+     linkopts = select({
+         "@org_tensorflow//tensorflow:windows": [],

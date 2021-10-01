@@ -1,0 +1,50 @@
+
+repos:
+  - repo: https://github.com/keith/pre-commit-buildifier
+    rev: 4.0.1.1
+    hooks:
+      - id: buildifier
+        args: &args
+        - --warnings=all
+      # buildifier doesn't repository files as workspace files, so we have to
+      # explicitly run buildifier on them to sort workspace rules.
+      - id: buildifier
+        args:
+        - --warnings=all
+        - -type=workspace
+        files: |
+          (?x)^.*(repositories|workspace)\.bzl$
+      - id: buildifier-lint
+        args: *args
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.0.1
+    hooks:
+      - id: trailing-whitespace
+        exclude: &raw_excludes |
+          (?x)^(
+            .+\.patch
+          )$
+      - id: end-of-file-fixer
+        exclude: *raw_excludes
+      - id: check-docstring-first
+      - id: check-json
+      - id: check-toml
+      - id: check-yaml
+        args:
+        - --allow-multiple-documents
+  - repo: https://github.com/Lucas-C/pre-commit-hooks
+    rev: v1.1.10
+    hooks:
+      - id: remove-crlf
+      - id: remove-tabs
+        args: [ '--whitespaces-count', '2' ]  # defaults to: 4
+  - repo: https://github.com/PyCQA/isort
+    rev: 5.9.3
+    hooks:
+      - id: isort
+  - repo: https://github.com/pre-commit/mirrors-yapf
+    rev: v0.31.0
+    hooks:
+      - id: yapf
+        language: python
+        additional_dependencies: ["toml"]

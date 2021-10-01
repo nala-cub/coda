@@ -1,0 +1,81 @@
+# ---------------------
+# Common
+# ---------------------
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-*
+/_bazel/
+
+# dependencies
+node_modules/
+
+# profiling files
+chrome-profiler-events*.json
+speed-measure-plugin*.json
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.tags
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# python
+/.pytest_cache/
+*.egg-info/
+__pycache__/
+.ipynb_checkpoints/
+*.py.lock
+# pytype
+/.pytype/
+
+# coverage
+/coverage
+.coverage*
+coverage.xml
+.nyc_output/
+
+# terraform
+.terraform/
+terraform.tfstate*
+
+# debug logs & caches
+*.log
+*.cache
+
+# misc
+/.sass-cache
+/connect.lock
+/typings
+
+# no user bazelrc
+user.bazelrc
+
+# secrets
+/config/secrets/
+
+# run logs and results
+/_results/
+/logs/
+
+# ---------------------
+# Project Specific
+# ---------------------

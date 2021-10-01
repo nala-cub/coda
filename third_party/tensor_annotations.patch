@@ -1,0 +1,39 @@
+diff --git a/jax-stubs/__init__.pyi b/jax-stubs/__init__.pyi
+index b9afdd3..53e37d0 100644
+--- a/jax-stubs/__init__.pyi
++++ b/jax-stubs/__init__.pyi
+@@ -1 +1,4 @@
+ # This is a dummy file required for Mypy to read JAX stubs.
++from typing import overload, Any, List, Literal, Tuple, TypeVar
++
++jit: Any
+\ No newline at end of file
+diff --git a/tensor_annotations/jax.py b/tensor_annotations/jax.py
+index 9ddddce..0afcf01 100644
+--- a/tensor_annotations/jax.py
++++ b/tensor_annotations/jax.py
+@@ -47,7 +47,6 @@ class _ArrayBase:
+   # These are necessary so that type checkers know we have these methods.
+   __abs__: Any
+   __add__: Any
+-  __add__: Any
+   __floordiv__: Any
+   __ge__: Any
+   __gt__: Any
+@@ -55,7 +54,6 @@ class _ArrayBase:
+   __lt__: Any
+   __mul__: Any
+   __neg__: Any
+-  __neg__: Any
+   __pos__: Any
+   __pow__: Any
+   __rmul__: Any
+@@ -64,6 +62,8 @@ class _ArrayBase:
+   shape: Any
+   type: Any
+   reshape: Any
++  dtype: Any
++  as_type: Any
+ 
+ 
+ class Array0(_ArrayBase):

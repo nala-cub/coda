@@ -1,0 +1,13 @@
+diff --git a/src/transformers/file_utils.py b/src/transformers/file_utils.py
+index c8979c6e5..56721c2df 100644
+--- a/src/transformers/file_utils.py
++++ b/src/transformers/file_utils.py
+@@ -120,7 +120,7 @@ if USE_JAX in ENV_VARS_TRUE_AND_AUTO_VALUES:
+             _flax_version = importlib_metadata.version("flax")
+             logger.info(f"JAX version {_jax_version}, Flax version {_flax_version} available.")
+         except importlib_metadata.PackageNotFoundError:
+-            _flax_available = False
++            pass
+ else:
+     _flax_available = False
+ 
