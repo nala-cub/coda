@@ -158,9 +158,9 @@ dm-tree==0.1.5 \
 docker-pycreds==0.4.0 \
     --hash=sha256:6ce3270bcaf404cc4c3e27e4b6c70d3521deae82fb508767870fdbf772d584d4 \
     --hash=sha256:7266112468627868005106ec19cd0d722702d2b7d5912a28e19b826c3d37af49
-einops==0.3.0 \
-    --hash=sha256:a3b0935a4556f012cd5fa1851373f63366890a3f6698d117afea55fd2a40c1fc \
-    --hash=sha256:a91c6190ceff7d513d74ca9fd701dfa6a1ffcdd98ea0ced14350197c07f75c73
+einops==0.3.2 \
+    --hash=sha256:285f3c75620897acb8b5580170c88121f010c77ce130bc7b9f220179009dafe0 \
+    --hash=sha256:5200e413539f0377f4177ef00dc019968f4177c49b1db3e836c7883df2a5fe2e
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#egg=en_core_web_sm==3.0.0 \
     --hash=sha256:0673b3ce4a28a19e99dc0fc3f8f7fe67b936c41749e6b70f778ec5f9f78f3a66
 entrypoints==0.3 \
