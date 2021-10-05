@@ -27,8 +27,5 @@ compile_pip_requirements(
         "--allow-unsafe",
         "--no-annotate",
     ],
-    tags = [
-        "manual",
-    ],
 )
 
