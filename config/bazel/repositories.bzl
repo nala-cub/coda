@@ -123,9 +123,9 @@ def _coda_repositories():
     http_archive(
         name = "com_github_openai_clip",
         build_file = _clean_dep("//third_party:clip.BUILD"),
-        sha256 = "25dd973ca1f9aba0b6e93a2ae4d5983457f47ef3b8cc6b75099f13cb435d9c60",
-        strip_prefix = "CLIP-fa56f2525191a013533338f137aab59ac36d8c26",
-        urls = ["https://github.com/openai/CLIP/archive/fa56f2525191a013533338f137aab59ac36d8c26.tar.gz"],
+        sha256 = "89cc8c65431d4f97abf99be30036131eaa9d1236fd684450c7eddb6f78003e15",
+        strip_prefix = "CLIP-04f4dc2ca1ed0acc9893bd1a3b526a7e02c4bb10",
+        urls = ["https://github.com/openai/CLIP/archive/04f4dc2ca1ed0acc9893bd1a3b526a7e02c4bb10.tar.gz"],
     )
 
     http_archive(
