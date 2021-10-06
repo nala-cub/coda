@@ -80,4 +80,4 @@ gcsfs
 pytype
 
 # pandas schema validation
-pandera<0.7
+pandera<0.8
