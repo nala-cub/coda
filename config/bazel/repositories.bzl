@@ -80,9 +80,9 @@ def _py_repositories():
     http_archive(
         name = "dm_chex",
         build_file = _clean_dep("//third_party:chex.BUILD"),
-        sha256 = "817212f7baa208223c00c18212ac4ae01fd81941361b34ec67a6645f07ccce30",
-        strip_prefix = "chex-5f3102fe1baeb22d1e697e1815d0b92c9f299913",
-        urls = ["https://github.com/deepmind/chex/archive/5f3102fe1baeb22d1e697e1815d0b92c9f299913.tar.gz"],
+        sha256 = "c3d7029bc4225086822d3510b00f60cc28f6c22391e7fffdf1cea1634c3e49e2",
+        strip_prefix = "chex-b00834cefcd8c50dc696a82f02ab92ed399bf530",
+        urls = ["https://github.com/deepmind/chex/archive/b00834cefcd8c50dc696a82f02ab92ed399bf530.tar.gz"],
     )
 
     http_archive(
