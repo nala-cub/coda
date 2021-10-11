@@ -55,10 +55,10 @@ def _py_repositories():
     http_archive(
         name = "python_typeshed",
         build_file = _clean_dep("//third_party:typeshed.BUILD"),
-        sha256 = "b7831980fdc49ed7decde014e08e1e9388d77c93900fb21f1574c8934d1defb3",
-        strip_prefix = "typeshed-46fc031ee7eec25a45208ac986ec9b9e5a95823b",
+        sha256 = "f4dd7f0bd7cd9ca38713269a8bc585cb48754132171a8dd663b0321c0a11eeff",
+        strip_prefix = "typeshed-76b1f63ac253759f875949dd7f157fe049d05d95",
         urls = [
-            "https://github.com/python/typeshed/archive/46fc031ee7eec25a45208ac986ec9b9e5a95823b.tar.gz",
+            "https://github.com/python/typeshed/archive/76b1f63ac253759f875949dd7f157fe049d05d95.tar.gz",
         ],
     )
     http_archive(
