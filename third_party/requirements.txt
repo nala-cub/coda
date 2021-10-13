@@ -192,9 +192,9 @@ google-auth-oauthlib==0.4.6 \
 google-auth==2.0.2 \
     --hash=sha256:104475dc4d57bbae49017aea16fffbb763204fa2d6a70f1f3cc79962c1a383a4 \
     --hash=sha256:cde472372e030e1e0bc64dac00fb53e6c095d7ab641f4281e2c995e85e205d8b
-huggingface-hub==0.0.12 \
-    --hash=sha256:5c82ff96897a72e1ed48a94c1796686f120dea05888200522f3994f130c12e6a \
-    --hash=sha256:661b17fab0c475276fd71603ee7e16c3b3d1d6e812e1b29f40144f64d361e59d
+huggingface-hub==0.0.19 \
+    --hash=sha256:6ea6fff78b692fc9b05e0315c2d7d835a6f42902e472eadeceebff12babd6c06 \
+    --hash=sha256:edcea87cbd709073a63fc911efa2d8fd8304f62cfe43f0bf497dec8eaac10369
 icecream==2.0.0 \
     --hash=sha256:434e14a50da01f9dc1e5757efec7613db5df048ebdcecd460236db41688f779a \
     --hash=sha256:9000acd16dc9d3c78a95ac9abc54c172e4f47fbd54541ab10d280fae5bfb8efa
