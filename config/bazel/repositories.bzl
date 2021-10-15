@@ -102,9 +102,9 @@ def _py_repositories():
     http_archive(
         name = "dm_fancyflags",
         build_file = _clean_dep("//third_party:fancyflags.BUILD"),
-        sha256 = "e14ba9b269a241462336ecd1d8ef9ee00ee3797bd3eb8ed803aeefff241e52a3",
-        strip_prefix = "fancyflags-bbcb51d7f144f31b9994f79e51c9c25501615f22",
-        url = "https://github.com/deepmind/fancyflags/archive/bbcb51d7f144f31b9994f79e51c9c25501615f22.tar.gz",
+        sha256 = "19805c12d7512c9e2806c0a6fea352381b4718e25d94d94960e8f3e61e3e4ab2",
+        strip_prefix = "fancyflags-2e13d9818fb41dbb4476c4ebbcfe5f5a35643ef0",
+        url = "https://github.com/deepmind/fancyflags/archive/2e13d9818fb41dbb4476c4ebbcfe5f5a35643ef0.tar.gz",
     )
 
     http_archive(
