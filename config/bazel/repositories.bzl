@@ -215,9 +215,9 @@ def research_repositories():
 
     http_archive(
         name = "io_bazel_stardoc",
-        sha256 = "6d07d18c15abb0f6d393adbd6075cd661a2219faab56a9517741f0fc755f6f3c",
-        strip_prefix = "stardoc-0.4.0",
-        urls = ["https://github.com/bazelbuild/stardoc/archive/0.4.0.tar.gz"],
+        sha256 = "cd3d1e483eddf9f73db2bd466f329e1d10d65492272820eda57540767c902fe2",
+        strip_prefix = "stardoc-0.5.0",
+        urls = ["https://github.com/bazelbuild/stardoc/archive/0.5.0.tar.gz"],
     )
 
     # Overwrite @dbx_build_tools version of cpython3.8. Note that we use the
