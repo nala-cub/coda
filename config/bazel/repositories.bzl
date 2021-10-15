@@ -199,9 +199,9 @@ def research_repositories():
     http_archive(
         name = "dbx_build_tools",
         patch_args = ["-p1"],
-        sha256 = "1076b50f33b093a6e5fc8bfccfd8ad32394631beb14caed4b62896b0953fa46f",
-        strip_prefix = "dbx_build_tools-b735dc993d8e36bc95f9e9a3c9f1af2b45718825",
-        urls = ["https://github.com/dropbox/dbx_build_tools/archive/b735dc993d8e36bc95f9e9a3c9f1af2b45718825.tar.gz"],
+        sha256 = "151b77cf5d1b06884bc2da350322e33ef5289237622196467988894c57616a0c",
+        strip_prefix = "dbx_build_tools-a5ae53031f11d9114cdbc40da8a84b5d28af58f7",
+        urls = ["https://github.com/dropbox/dbx_build_tools/archive/a5ae53031f11d9114cdbc40da8a84b5d28af58f7.tar.gz"],
     )
 
     http_archive(
