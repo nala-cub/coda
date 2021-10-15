@@ -30,6 +30,17 @@ py_library(
     visibility = ["//visibility:public"],
 )
 
+py_library(
+    name = "jupyterlab_helper",
+    srcs = ["jupyterlab_helper.py"],
+    visibility = ["//visibility:public"],
+    deps = [
+        "@pip_pypi__ipywidgets//:pkg",
+        "@pip_pypi__jupyter_contrib_nbextensions//:pkg",
+        "@pip_pypi__jupyterlab//:pkg",
+    ],
+)
+
 exports_files([
     "configure.bzl",
     "interpreter.bzl",

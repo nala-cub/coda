@@ -186,3 +186,18 @@ def py_repl(name, deps, **kwargs):
         deps = deps,
         **kwargs
     )
+
+def jupyterlab_server(name = "jupyterlab", **kwargs):
+    """ A macro for creating a Jupyterlab Server.
+
+    Args:
+      name: A unique name for this rule.
+      **kwargs: are passed to py_binary
+    """
+
+    py_binary(
+        name = name,
+        srcs = [_clean_dep("//tools/python:jupyterlab_helper")],
+        main = "jupyterlab_helper.py",
+        **kwargs
+    )

@@ -81,3 +81,8 @@ pytype
 
 # pandas schema validation
 pandera<0.8
+
+# jupyter notebooks
+jupyter_contrib_nbextensions==0.5.1
+jupyterlab==3.0.14
+ipywidgets>=7.6

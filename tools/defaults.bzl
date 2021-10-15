@@ -24,6 +24,7 @@ load(
 )
 load(
     "//tools/python:defs.bzl",
+    _jupyterlab_server = "jupyterlab_server",
     _py_binary = "py_binary",
     _py_generate_test_suite = "py_generate_test_suite",
     _py_library = "py_library",
@@ -50,3 +51,5 @@ py_generate_test_suite = _py_generate_test_suite
 
 pyx_library = _pyx_library
 pybind_extension = _pybind_extension
+
+jupyterlab_server = _jupyterlab_server
