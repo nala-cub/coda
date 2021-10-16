@@ -54,6 +54,7 @@ if not _is_labtools_testing_stub():
   from labtools._src.io_util import load_jsonl
   from labtools._src.io_util import load_and_check_yml
   from labtools._src.io_util import maybe_rlocation
+  from labtools._src.io_util import download_files
 
   from labtools._src.config import setup_jupyter_env
   from labtools._src.config import frozen
@@ -89,6 +90,7 @@ __all__ = (
     'dump_json',
     'dump_jsonl',
     'load_jsonl',
+    'download_files',
     'load_and_check_yml',
     'setup_jupyter_env',
     'configure_logging',

@@ -56,6 +56,7 @@ py_library(
         ":_",
         ":util",
         "@absl_py//absl/logging",
+        "@pip_pypi__requests//:pkg",
         "@pytoolz_cytoolz//:cytoolz",
         "@rules_python//python/runfiles",
     ],
