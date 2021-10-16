@@ -1303,6 +1303,8 @@ tabulate==0.8.9 \
 tenacity==8.0.1 \
     --hash=sha256:43242a20e3e73291a28bcbcacfd6e000b02d3857a9a9fff56b297a27afdc932f \
     --hash=sha256:f78f4ea81b0fabc06728c11dc2a8c01277bfc5181b321a4770471902e3eb844a
+termcolor==1.1.0 \
+    --hash=sha256:1d6d69ce66211143803fbc56652b41d73b4a400a2891d7bf7a1cdf4c02de613b
 terminado==0.12.1 \
     --hash=sha256:09fdde344324a1c9c6e610ee4ca165c4bb7f5bbf982fceeeb38998a988ef8452 \
     --hash=sha256:b20fd93cc57c1678c799799d117874367cc07a3d2d55be95205b1a88fa08393f
@@ -1464,9 +1466,9 @@ typing-inspect==0.7.1 \
 urllib3==1.26.3 \
     --hash=sha256:1b465e494e3e0d8939b50680403e3aedaa2bc434b7d5af64dfd3c958d7f5ae80 \
     --hash=sha256:de3eedaad74a2683334e282005cd8d7f22f4d55fa690a2a1020a416cb0a47e73
-wandb==0.12.1 \
-    --hash=sha256:723e81cca072def483422b9ae45d5c1b5c8f2d011dc5c85c8891696f8504a55e \
-    --hash=sha256:739f205b5c9a5bc25e742f1c707e65322cd6aafba8ec64299e5757f992f34be3
+wandb==0.12.4 \
+    --hash=sha256:5e78891ff8371f07ad82a23bd9ec8d110f433c677e4101664eef8bd5b6f4f28c \
+    --hash=sha256:89130c0d87004f653de017253762986bd09a8a1f02ed0cecfc2b8e825dfcbf5c
 wasabi==0.8.2 \
     --hash=sha256:a493e09d86109ec6d9e70d040472f9facc44634d4ae6327182f94091ca73a490 \
     --hash=sha256:b4a36aaa9ca3a151f0c558f269d442afbb3526f0160fd541acd8a0d5e5712054
@@ -1590,6 +1592,9 @@ yarl==1.6.3 \
     --hash=sha256:f040bcc6725c821a4c0665f3aa96a4d0805a7aaf2caf266d256b8ed71b9f041c \
     --hash=sha256:f0b059678fd549c66b89bed03efcabb009075bd131c248ecdf087bdb6faba24a \
     --hash=sha256:fcbb48a93e8699eae920f8d92f7160c03567b421bc17362a9ffbbd706a816f71
+yaspin==2.1.0 \
+    --hash=sha256:c8d34eca9fda3f4dfbe59f57f3cf0f3641af3eefbf1544fbeb9b3bacf82c580a \
+    --hash=sha256:d574cbfaf0a349df466c91f7f81b22460ae5ebb15ecb8bf9411d6049923aee8d
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==58.2.0 \
