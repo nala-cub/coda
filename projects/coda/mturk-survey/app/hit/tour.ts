@@ -16,49 +16,48 @@
 import {TourConfig} from '../intro/introjs.service';
 
 export const tourConfig: TourConfig = {
-  showProgress : false,
-  scrollToElement : false,
-  steps : [
+  showProgress: false,
+  scrollToElement: false,
+  steps: [
     {
-      intro : 'Hello! This is an introduction to how to do Object Color  ' +
-                  'Labeling. Click Next.'
+      intro: 'Hello! This is an introduction to how to do Object Color  ' +
+          'Labeling. Click Next.'
     },
     {
-      element : '#concept-card',
-      intro :
-          'This is the object that you will be analyzing for the current ' +
-              'task. To complete the task, you should be familiar with the color ' +
-              'of this object.'
+      element: '#concept-card',
+      intro: 'This is the object that you will be analyzing for the current ' +
+          'task. To complete the task, you should be familiar with the color ' +
+          'of this object.'
     },
     {
-      element : '#colortable',
-      intro : `For each of the listed colors, use the sliders below to
+      element: '#colortable',
+      intro: `For each of the listed colors, use the sliders below to
           indicate how frequently the object is that color. Use a scale of 0-5
           in your ratings where 0 corresponds to almost never and 5 corresponds
           to almost always.`
     },
     {
-      element : '#colortable',
-      intro : `By default, all of the sliders are set to 0 (almost never).
+      element: '#colortable',
+      intro: `By default, all of the sliders are set to 0 (almost never).
           Sliding all the way to the right indicates a score of 5/5`
     },
     {
-      element : '#submitbox',
-      intro : `Here you'll find the actions for progressing through tasks.`
+      element: '#submitbox',
+      intro: `Here you'll find the actions for progressing through tasks.`
     },
     {
-      element : '#clear-btn',
-      intro : `Use this to clear out all current color ratings in the table.`
+      element: '#clear-btn',
+      intro: `Use this to clear out all current color ratings in the table.`
     },
     {
-      element : '#submit-btn',
-      intro : `This button will be enabled once your color ratings are valid. An
+      element: '#submit-btn',
+      intro: `This button will be enabled once your color ratings are valid. An
            empty rating is invalid.`,
-      position : 'left'
+      position: 'left'
     },
     {
-      element : '#more-info',
-      intro : `You can access more instructions for the task here. Detailed
+      element: '#more-info',
+      intro: `You can access more instructions for the task here. Detailed
           instructions summarizes this demo, and to repeat the demo press "Show
           Task Demo". `,
     },

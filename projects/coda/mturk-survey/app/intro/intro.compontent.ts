@@ -15,11 +15,12 @@
  */
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from '@angular/router';
+
 import {HitService} from '../hit/hit.service';
 
 @Component({
-  selector : 'kln-intro-component',
-  templateUrl : 'intro.component.html',
+  selector: 'kln-intro-component',
+  templateUrl: 'intro.component.html',
 })
 export class IntroComponent implements OnInit {
   numObjects = 25;
@@ -27,30 +28,30 @@ export class IntroComponent implements OnInit {
   loadingHit = false
 
   acceptable = [
-    {short : `You've seen the item before`},
-    {short : `Your annotations are reasonable.`},
-    {short : `Your annotations are all valid.`},
-    {short : `Your annotations correspond to the 'natural' state of objects.`},
+    {short: `You've seen the item before`},
+    {short: `Your annotations are reasonable.`},
+    {short: `Your annotations are all valid.`},
+    {short: `Your annotations correspond to the 'natural' state of objects.`},
   ]
 
   unacceptable = [
-    {short : `You've never seen the item before`},
-    {short : `Selecting colors for an object that is never that color`},
-    {short : `Selecting every color for every object.`},
-    {short : `Looking it up on Google to get image examples.`},
+    {short: `You've never seen the item before`},
+    {short: `Selecting colors for an object that is never that color`},
+    {short: `Selecting every color for every object.`},
+    {short: `Looking it up on Google to get image examples.`},
     {
-      short : `The selected color represents a specific unnatural state of an
+      short: `The selected color represents a specific unnatural state of an
              object e.g. an anything covered in dirt is brown.`
     },
     {
-      short : `Selected a color which represents an object being painted a
+      short: `Selected a color which represents an object being painted a
             nonstandard color (e.g. painted grass).`,
       explanation: `That's the color of paint, not grass.`
     },
   ]
 
-  constructor(private router: Router, route: ActivatedRoute,
-              public hs: HitService) {
+  constructor(
+      private router: Router, route: ActivatedRoute, public hs: HitService) {
     // parse query as params
     hs.getHitParams(route);
   }
@@ -58,11 +59,13 @@ export class IntroComponent implements OnInit {
   ngOnInit() {
     // try to preload the hit if we can.
     this.hs.loadingHit = true;
-    this.hs.hit$.subscribe(_data => { this.hs.loadingHit = false; })
+    this.hs.hit$.subscribe(_data => {
+      this.hs.loadingHit = false;
+    })
   }
 
   startHit() {
     this.hs.loadingHit = true;
-    this.router.navigate([ '/hit' ], {queryParamsHandling : 'preserve'});
+    this.router.navigate(['/hit'], {queryParamsHandling: 'preserve'});
   }
 }

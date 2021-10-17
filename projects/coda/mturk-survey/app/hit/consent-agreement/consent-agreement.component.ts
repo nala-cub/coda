@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 import {Component, OnInit} from '@angular/core';
+
 import {HitService} from '../hit.service';
 
 @Component({
-  selector : 'kln-consent-agreement',
-  templateUrl : './consent-agreement.component.html',
+  selector: 'kln-consent-agreement',
+  templateUrl: './consent-agreement.component.html',
 })
 export class ConsentAgreementComponent implements OnInit {
-
   constructor(public hs: HitService) {}
 
   ngOnInit(): void {}

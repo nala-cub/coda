@@ -16,9 +16,9 @@
 import {Component, OnInit} from '@angular/core';
 
 @Component({
-  selector : 'kln-acceptance-criteria',
-  templateUrl : './acceptance-criteria.component.html',
-  styles : [
+  selector: 'kln-acceptance-criteria',
+  templateUrl: './acceptance-criteria.component.html',
+  styles: [
     `mat-card {
       width: 100%;
     }
@@ -29,29 +29,28 @@ import {Component, OnInit} from '@angular/core';
   ]
 })
 export class AcceptanceCriteriaComponent implements OnInit {
-
   constructor() {}
 
   ngOnInit(): void {}
 
   acceptable = [
-    {short : `You've seen the item before`},
-    {short : `Your annotations are reasonable.`},
-    {short : `Your annotations are all valid.`},
-    {short : `Your annotations correspond to the 'natural' state of objects.`},
+    {short: `You've seen the item before`},
+    {short: `Your annotations are reasonable.`},
+    {short: `Your annotations are all valid.`},
+    {short: `Your annotations correspond to the 'natural' state of objects.`},
   ]
 
   unacceptable = [
-    {short : `You've never seen the item before`},
-    {short : `Selecting colors for an object that is never that color`},
-    {short : `Selecting every color for every object.`},
-    {short : `Looking it up on Google to get image examples.`},
+    {short: `You've never seen the item before`},
+    {short: `Selecting colors for an object that is never that color`},
+    {short: `Selecting every color for every object.`},
+    {short: `Looking it up on Google to get image examples.`},
     {
-      short : `The selected color represents a specific unnatural state of an
+      short: `The selected color represents a specific unnatural state of an
              object e.g. an anything covered in dirt is brown.`
     },
     {
-      short : `Selected a color which represents an object being painted a
+      short: `Selected a color which represents an object being painted a
             nonstandard color (e.g. painted grass).`,
       explanation: `That's the color of paint, not grass.`
     },
