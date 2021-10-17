@@ -56,6 +56,7 @@ coverage.xml
 # terraform
 .terraform/
 terraform.tfstate*
+user.*.tfvars
 
 # debug logs & caches
 *.log
