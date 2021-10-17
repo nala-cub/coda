@@ -52,3 +52,8 @@ repos:
       - id: yapf
         language: python
         additional_dependencies: ["toml"]
+  - repo: https://github.com/pre-commit/mirrors-clang-format
+    rev: 'v13.0.0'
+    hooks:
+      - id: clang-format
+        types_or: [javascript, jsx, ts, tsx]
