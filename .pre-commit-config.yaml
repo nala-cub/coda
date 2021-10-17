@@ -28,6 +28,10 @@ repos:
         exclude: *raw_excludes
       - id: check-docstring-first
       - id: check-json
+        exclude: &jsonc_files |
+          (?x)^(
+            .+tsconfig.*\.json
+          )$
       - id: check-toml
       - id: check-yaml
         args:
