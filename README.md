@@ -72,7 +72,14 @@ Annotations were collected using an Angular app on Firebase. The included files 
 If this code was useful, please cite the paper:
 
 ```
-**TODO**
+@misc{paik2021world,
+      title={The World of an Octopus: How Reporting Bias Influences a Language Model's Perception of Color},
+      author={Cory Paik and Stéphane Aroca-Ouellette and Alessandro Roncone and Katharina Kann},
+      year={2021},
+      eprint={2110.08182},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 ## License
